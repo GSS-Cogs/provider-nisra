@@ -1,0 +1,4 @@
+{
+    "$schema": "https://purl.org/csv-cubed/qube-config/v1",
+    "title": "Ambulance Response Times by Local Authority"
+}
