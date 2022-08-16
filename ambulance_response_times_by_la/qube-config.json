@@ -1,4 +1,5 @@
 {
     "$schema": "https://purl.org/csv-cubed/qube-config/v1",
-    "title": "Ambulance Response Times by Local Authority"
+    "title": "Ambulance Response Times by Local Authority",
+    "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
 }
