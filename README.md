@@ -1,7 +1,9 @@
 # provider-nisra
-Northern Ireland Statistics and Research Agency is publishing FAIR data using csvcubed; check out this repo for their qube-ish CSV-Ws and PMD for their RDF qubes.
+
+Northern Ireland Statistics and Research Agency will be self-publishing FAIR data using [csvcubed](https://gss-cogs.github.io/csvcubed-docs/external/); this repo currently holds their qube-ish CSV-Ws experiments.
 
 ## Google Cloud Shell Integration Instructions
+
 To use Google Cloud Shell and this repo click [here](https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/GSS-Cogs/provider-nisra&cloudshell_image=gcr.io/optimum-bonbon-257411/cvcubed-cloudshell).
 
 1. Step one, log into github in Google Cloud Shell
