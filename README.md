@@ -1,6 +1,6 @@
 # provider-nisra
 
-Northern Ireland Statistics and Research Agency will be self-publishing FAIR data using [csvcubed](https://gss-cogs.github.io/csvcubed-docs/external/); this repo currently holds their qube-ish CSV-Ws experiments.
+Northern Ireland Statistics and Research Agency will be self-publishing [FAIR](https://www.go-fair.org/fair-principles/) data using [csvcubed](https://gss-cogs.github.io/csvcubed-docs/external/); this repo currently holds their qube-ish CSV-Ws experiments.
 
 ## Google Cloud Shell Integration Instructions
 
