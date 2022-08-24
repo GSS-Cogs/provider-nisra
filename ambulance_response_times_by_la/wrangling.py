@@ -14,6 +14,8 @@ def wrangle(input: click.Path, output: click.Path) -> None:
         .apply(lambda x: (int(x[0]) * 60) + int(x[1]) + (int(x[2]) / 60))
         .round(decimals=2)
     )
+    # Changed from HH:MM:SS to decimal minutes, need to drop UNIT column
+    df.drop("UNIT", axis=1, inplace=True) 
     df.to_csv(output, index=False)
     return
 
