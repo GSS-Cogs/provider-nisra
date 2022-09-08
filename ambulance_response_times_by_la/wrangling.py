@@ -1,11 +1,13 @@
+from email.policy import default
 import click
 import pandas as pd
+from pathlib import Path
 
 
 @click.command()
-@click.argument("input", type=click.Path(exists=True))
-@click.argument("output", type=click.Path())
-def wrangle(input: click.Path, output: click.Path) -> None:
+@click.argument("input", type=click.Path(exists=True, path_type=Path))
+@click.option("--output", default=Path("./output.csv"), type=click.Path(path_type=Path))
+def wrangle(input: Path(), output: Path()) -> None:
     df = pd.read_csv(input)
     # 00:07:22
     df["VALUE"] = (
@@ -15,7 +17,7 @@ def wrangle(input: click.Path, output: click.Path) -> None:
         .round(decimals=2)
     )
     # Changed from HH:MM:SS to decimal minutes, need to drop UNIT column
-    df.drop("UNIT", axis=1, inplace=True) 
+    df.drop("UNIT", axis=1, inplace=True)
     df.to_csv(output, index=False)
     return
 
