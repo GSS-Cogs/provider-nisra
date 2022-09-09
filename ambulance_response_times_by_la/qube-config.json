@@ -2,6 +2,8 @@
     "$schema": "https://purl.org/csv-cubed/qube-config/v1",
     "title": "Ambulance Response Times by Local Authority",
     "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "publisher": "https://www.gov.uk/government/organisations/northern-ireland-statistics-and-research-agency",
+    "themes":"https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthcaresystem",
     "columns": {
         "STATISTIC CODE": false,
         "Statistic": {
