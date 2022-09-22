@@ -23,9 +23,10 @@
         "Local Government District": false,
         "VALUE": {
             "type": "observations",
+            "data_type": "int",
             "unit": {
-                "label": "Minutes",
-                "from_existing": "http://qudt.org/vocab/unit/MIN"
+                "label": "Seconds",
+                "from_existing": "http://qudt.org/vocab/unit/SEC"
             }
         }
     }

@@ -13,8 +13,7 @@ def wrangle(input: Path(), output: Path()) -> None:
     df["VALUE"] = (
         df["VALUE"]
         .str.split(":")
-        .apply(lambda x: (int(x[0]) * 60) + int(x[1]) + (int(x[2]) / 60))
-        .round(decimals=2)
+        .apply(lambda x: (int(x[0]) * 3600) + (int(x[0]) * 60) + int(x[2]))
     )
     # Changed from HH:MM:SS to decimal minutes, need to drop UNIT column
     df.drop("UNIT", axis=1, inplace=True)
