@@ -93,38 +93,34 @@
     ],
     "rdfs:seeAlso": [
         {
-            "@id": "ambulance-response-times-by-local-authority.csv#class/geography",
+            "@id": "ambulance-response-times-by-local-authority.csv#component/year",
             "@type": [
-                "http://www.w3.org/2000/01/rdf-schema#Class",
-                "http://www.w3.org/2000/01/rdf-schema#Resource"
-            ]
-        },
-        {
-            "@id": "ambulance-response-times-by-local-authority.csv#measure/ambulance-response-time-median",
-            "@type": [
-                "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
-                "http://purl.org/linked-data/cube#MeasureProperty",
                 "http://www.w3.org/2000/01/rdf-schema#Resource",
-                "http://purl.org/linked-data/cube#ComponentProperty"
+                "http://purl.org/linked-data/cube#ComponentSpecification",
+                "http://purl.org/linked-data/cube#ComponentSet"
             ],
-            "http://www.w3.org/2000/01/rdf-schema#label": [
+            "http://purl.org/linked-data/cube#componentProperty": [
                 {
-                    "@language": "en",
-                    "@value": "Ambulance response time, median"
+                    "@id": "ambulance-response-times-by-local-authority.csv#dimension/year"
                 }
             ],
-            "http://www.w3.org/2000/01/rdf-schema#range": [
+            "http://purl.org/linked-data/cube#dimension": [
                 {
-                    "@id": "http://www.w3.org/2001/XMLSchema#int"
+                    "@id": "ambulance-response-times-by-local-authority.csv#dimension/year"
+                }
+            ],
+            "http://purl.org/linked-data/cube#order": [
+                {
+                    "@value": 2
                 }
             ]
         },
         {
             "@id": "ambulance-response-times-by-local-authority.csv#component/ambulance-response-time-median",
             "@type": [
-                "http://purl.org/linked-data/cube#ComponentSet",
                 "http://www.w3.org/2000/01/rdf-schema#Resource",
-                "http://purl.org/linked-data/cube#ComponentSpecification"
+                "http://purl.org/linked-data/cube#ComponentSpecification",
+                "http://purl.org/linked-data/cube#ComponentSet"
             ],
             "http://purl.org/linked-data/cube#componentProperty": [
                 {
@@ -143,13 +139,39 @@
             ]
         },
         {
+            "@id": "ambulance-response-times-by-local-authority.csv#dimension/geography",
+            "@type": [
+                "http://purl.org/linked-data/cube#DimensionProperty",
+                "http://www.w3.org/2000/01/rdf-schema#Resource",
+                "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+                "http://purl.org/linked-data/cube#ComponentProperty",
+                "http://purl.org/linked-data/cube#CodedProperty"
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#label": [
+                {
+                    "@language": "en",
+                    "@value": "Geography"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#range": [
+                {
+                    "@id": "ambulance-response-times-by-local-authority.csv#class/geography"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#subPropertyOf": [
+                {
+                    "@id": "http://purl.org/linked-data/sdmx/2009/dimension#refArea"
+                }
+            ]
+        },
+        {
             "@id": "ambulance-response-times-by-local-authority.csv#dimension/year",
             "@type": [
-                "http://purl.org/linked-data/cube#ComponentProperty",
-                "http://purl.org/linked-data/cube#CodedProperty",
-                "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
                 "http://purl.org/linked-data/cube#DimensionProperty",
-                "http://www.w3.org/2000/01/rdf-schema#Resource"
+                "http://www.w3.org/2000/01/rdf-schema#Resource",
+                "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+                "http://purl.org/linked-data/cube#ComponentProperty",
+                "http://purl.org/linked-data/cube#CodedProperty"
             ],
             "http://purl.org/linked-data/cube#codeList": [
                 {
@@ -174,13 +196,20 @@
             ]
         },
         {
+            "@id": "ambulance-response-times-by-local-authority.csv#class/year",
+            "@type": [
+                "http://www.w3.org/2000/01/rdf-schema#Resource",
+                "http://www.w3.org/2000/01/rdf-schema#Class"
+            ]
+        },
+        {
             "@id": "ambulance-response-times-by-local-authority.csv#dataset",
             "@type": [
-                "http://purl.org/linked-data/cube#Attachable",
                 "http://purl.org/linked-data/cube#DataSet",
-                "http://www.w3.org/ns/dcat#Dataset",
+                "http://www.w3.org/2000/01/rdf-schema#Resource",
                 "http://www.w3.org/ns/dcat#Resource",
-                "http://www.w3.org/2000/01/rdf-schema#Resource"
+                "http://purl.org/linked-data/cube#Attachable",
+                "http://www.w3.org/ns/dcat#Dataset"
             ],
             "http://purl.org/dc/terms/identifier": [
                 {
@@ -190,7 +219,7 @@
             "http://purl.org/dc/terms/issued": [
                 {
                     "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-                    "@value": "2022-09-22T08:56:12.870251"
+                    "@value": "2022-09-22T11:43:36.083345"
                 }
             ],
             "http://purl.org/dc/terms/license": [
@@ -201,7 +230,7 @@
             "http://purl.org/dc/terms/modified": [
                 {
                     "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-                    "@value": "2022-09-22T08:56:12.870251"
+                    "@value": "2022-09-22T11:43:36.083345"
                 }
             ],
             "http://purl.org/dc/terms/publisher": [
@@ -233,55 +262,32 @@
             ]
         },
         {
-            "@id": "ambulance-response-times-by-local-authority.csv#component/geography",
-            "@type": [
-                "http://purl.org/linked-data/cube#ComponentSet",
-                "http://www.w3.org/2000/01/rdf-schema#Resource",
-                "http://purl.org/linked-data/cube#ComponentSpecification"
-            ],
-            "http://purl.org/linked-data/cube#componentProperty": [
-                {
-                    "@id": "ambulance-response-times-by-local-authority.csv#dimension/geography"
-                }
-            ],
-            "http://purl.org/linked-data/cube#dimension": [
-                {
-                    "@id": "ambulance-response-times-by-local-authority.csv#dimension/geography"
-                }
-            ],
-            "http://purl.org/linked-data/cube#order": [
-                {
-                    "@value": 3
-                }
-            ]
-        },
-        {
             "@id": "ambulance-response-times-by-local-authority.csv#structure",
             "@type": [
-                "http://purl.org/linked-data/cube#ComponentSet",
+                "http://www.w3.org/2000/01/rdf-schema#Resource",
                 "http://purl.org/linked-data/cube#DataStructureDefinition",
-                "http://www.w3.org/2000/01/rdf-schema#Resource"
+                "http://purl.org/linked-data/cube#ComponentSet"
             ],
             "http://purl.org/linked-data/cube#component": [
                 {
-                    "@id": "ambulance-response-times-by-local-authority.csv#component/ambulance-response-time-median"
-                },
-                {
-                    "@id": "ambulance-response-times-by-local-authority.csv#component/measure-type"
-                },
-                {
-                    "@id": "ambulance-response-times-by-local-authority.csv#component/unit"
+                    "@id": "ambulance-response-times-by-local-authority.csv#component/geography"
                 },
                 {
                     "@id": "ambulance-response-times-by-local-authority.csv#component/year"
                 },
                 {
-                    "@id": "ambulance-response-times-by-local-authority.csv#component/geography"
+                    "@id": "ambulance-response-times-by-local-authority.csv#component/unit"
+                },
+                {
+                    "@id": "ambulance-response-times-by-local-authority.csv#component/measure-type"
+                },
+                {
+                    "@id": "ambulance-response-times-by-local-authority.csv#component/ambulance-response-time-median"
                 }
             ],
             "http://purl.org/linked-data/cube#componentProperty": [
                 {
-                    "@id": "http://purl.org/linked-data/sdmx/2009/attribute#unitMeasure"
+                    "@id": "ambulance-response-times-by-local-authority.csv#measure/ambulance-response-time-median"
                 },
                 {
                     "@id": "http://purl.org/linked-data/cube#measureType"
@@ -293,95 +299,16 @@
                     "@id": "ambulance-response-times-by-local-authority.csv#dimension/year"
                 },
                 {
-                    "@id": "ambulance-response-times-by-local-authority.csv#measure/ambulance-response-time-median"
-                }
-            ]
-        },
-        {
-            "@id": "ambulance-response-times-by-local-authority.csv#class/year",
-            "@type": [
-                "http://www.w3.org/2000/01/rdf-schema#Class",
-                "http://www.w3.org/2000/01/rdf-schema#Resource"
-            ]
-        },
-        {
-            "@id": "ambulance-response-times-by-local-authority.csv#component/year",
-            "@type": [
-                "http://purl.org/linked-data/cube#ComponentSet",
-                "http://www.w3.org/2000/01/rdf-schema#Resource",
-                "http://purl.org/linked-data/cube#ComponentSpecification"
-            ],
-            "http://purl.org/linked-data/cube#componentProperty": [
-                {
-                    "@id": "ambulance-response-times-by-local-authority.csv#dimension/year"
-                }
-            ],
-            "http://purl.org/linked-data/cube#dimension": [
-                {
-                    "@id": "ambulance-response-times-by-local-authority.csv#dimension/year"
-                }
-            ],
-            "http://purl.org/linked-data/cube#order": [
-                {
-                    "@value": 2
-                }
-            ]
-        },
-        {
-            "@id": "ambulance-response-times-by-local-authority.csv#dimension/geography",
-            "@type": [
-                "http://purl.org/linked-data/cube#ComponentProperty",
-                "http://purl.org/linked-data/cube#CodedProperty",
-                "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
-                "http://purl.org/linked-data/cube#DimensionProperty",
-                "http://www.w3.org/2000/01/rdf-schema#Resource"
-            ],
-            "http://www.w3.org/2000/01/rdf-schema#label": [
-                {
-                    "@language": "en",
-                    "@value": "Geography"
-                }
-            ],
-            "http://www.w3.org/2000/01/rdf-schema#range": [
-                {
-                    "@id": "ambulance-response-times-by-local-authority.csv#class/geography"
-                }
-            ],
-            "http://www.w3.org/2000/01/rdf-schema#subPropertyOf": [
-                {
-                    "@id": "http://purl.org/linked-data/sdmx/2009/dimension#refArea"
-                }
-            ]
-        },
-        {
-            "@id": "ambulance-response-times-by-local-authority.csv#component/measure-type",
-            "@type": [
-                "http://purl.org/linked-data/cube#ComponentSet",
-                "http://www.w3.org/2000/01/rdf-schema#Resource",
-                "http://purl.org/linked-data/cube#ComponentSpecification"
-            ],
-            "http://purl.org/linked-data/cube#componentProperty": [
-                {
-                    "@id": "http://purl.org/linked-data/cube#measureType"
-                }
-            ],
-            "http://purl.org/linked-data/cube#dimension": [
-                {
-                    "@id": "http://purl.org/linked-data/cube#measureType"
-                }
-            ],
-            "http://purl.org/linked-data/cube#order": [
-                {
-                    "@value": 4
+                    "@id": "http://purl.org/linked-data/sdmx/2009/attribute#unitMeasure"
                 }
             ]
         },
         {
             "@id": "ambulance-response-times-by-local-authority.csv#component/unit",
             "@type": [
-                "http://purl.org/linked-data/cube#ComponentSet",
                 "http://www.w3.org/2000/01/rdf-schema#Resource",
-                "http://purl.org/linked-data/cube#ComponentSpecification"
+                "http://purl.org/linked-data/cube#ComponentSpecification",
+                "http://purl.org/linked-data/cube#ComponentSet"
             ],
             "http://purl.org/linked-data/cube#attribute": [
                 {
@@ -405,6 +332,79 @@
             ]
         },
         {
+            "@id": "ambulance-response-times-by-local-authority.csv#measure/ambulance-response-time-median",
+            "@type": [
+                "http://www.w3.org/2000/01/rdf-schema#Resource",
+                "http://purl.org/linked-data/cube#MeasureProperty",
+                "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+                "http://purl.org/linked-data/cube#ComponentProperty"
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#label": [
+                {
+                    "@language": "en",
+                    "@value": "Ambulance response time, median"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#range": [
+                {
+                    "@id": "http://www.w3.org/2001/XMLSchema#int"
+                }
+            ]
+        },
+        {
+            "@id": "ambulance-response-times-by-local-authority.csv#class/geography",
+            "@type": [
+                "http://www.w3.org/2000/01/rdf-schema#Resource",
+                "http://www.w3.org/2000/01/rdf-schema#Class"
+            ]
+        },
+        {
+            "@id": "ambulance-response-times-by-local-authority.csv#component/measure-type",
+            "@type": [
+                "http://www.w3.org/2000/01/rdf-schema#Resource",
+                "http://purl.org/linked-data/cube#ComponentSpecification",
+                "http://purl.org/linked-data/cube#ComponentSet"
+            ],
+            "http://purl.org/linked-data/cube#componentProperty": [
+                {
+                    "@id": "http://purl.org/linked-data/cube#measureType"
+                }
+            ],
+            "http://purl.org/linked-data/cube#dimension": [
+                {
+                    "@id": "http://purl.org/linked-data/cube#measureType"
+                }
+            ],
+            "http://purl.org/linked-data/cube#order": [
+                {
+                    "@value": 4
+                }
+            ]
+        },
+        {
+            "@id": "ambulance-response-times-by-local-authority.csv#component/geography",
+            "@type": [
+                "http://www.w3.org/2000/01/rdf-schema#Resource",
+                "http://purl.org/linked-data/cube#ComponentSpecification",
+                "http://purl.org/linked-data/cube#ComponentSet"
+            ],
+            "http://purl.org/linked-data/cube#componentProperty": [
+                {
+                    "@id": "ambulance-response-times-by-local-authority.csv#dimension/geography"
+                }
+            ],
+            "http://purl.org/linked-data/cube#dimension": [
+                {
+                    "@id": "ambulance-response-times-by-local-authority.csv#dimension/geography"
+                }
+            ],
+            "http://purl.org/linked-data/cube#order": [
+                {
+                    "@value": 3
+                }
+            ]
+        },
+        {
             "@id": "ambulance-response-times-by-local-authority.csv#dependency/year",
             "@type": [
                 "http://www.w3.org/2000/01/rdf-schema#Resource",
@@ -424,9 +424,9 @@
         {
             "@id": "ambulance-response-times-by-local-authority.csv#unit/seconds",
             "@type": [
-                "http://www.ontology-of-units-of-measure.org/resource/om-2/Unit",
+                "http://www.w3.org/2000/01/rdf-schema#Resource",
                 "http://qudt.org/schema/qudt/Unit",
-                "http://www.w3.org/2000/01/rdf-schema#Resource"
+                "http://www.ontology-of-units-of-measure.org/resource/om-2/Unit"
             ],
             "http://qudt.org/schema/qudt/isScalingOf": [
                 {

@@ -1,145 +1,145 @@
 STATISTIC CODE,Statistic,TLIST(A1),Year,LGD2014,Local Government District,VALUE
-ART,"Ambulance response time, median",2010,2010,N09000001,Antrim and Newtownabbey,22
-ART,"Ambulance response time, median",2010,2010,N09000002,"Armagh City, Banbridge and Craigavon",9
-ART,"Ambulance response time, median",2010,2010,N09000003,Belfast,40
-ART,"Ambulance response time, median",2010,2010,N09000004,Causeway Coast and Glens,49
-ART,"Ambulance response time, median",2010,2010,N09000005,Derry City and Strabane,19
-ART,"Ambulance response time, median",2010,2010,N09000006,Fermanagh and Omagh,11
-ART,"Ambulance response time, median",2010,2010,N09000007,Lisburn and Castlereagh,2
-ART,"Ambulance response time, median",2010,2010,N09000008,Mid and East Antrim,55
-ART,"Ambulance response time, median",2010,2010,N09000009,Mid Ulster,18
-ART,"Ambulance response time, median",2010,2010,N09000010,"Newry, Mourne and Down",11
-ART,"Ambulance response time, median",2010,2010,N09000011,Ards and North Down,28
-ART,"Ambulance response time, median",2010,2010,N92000002,NI,29
-ART,"Ambulance response time, median",2011,2011,N09000001,Antrim and Newtownabbey,26
-ART,"Ambulance response time, median",2011,2011,N09000002,"Armagh City, Banbridge and Craigavon",19
-ART,"Ambulance response time, median",2011,2011,N09000003,Belfast,58
-ART,"Ambulance response time, median",2011,2011,N09000004,Causeway Coast and Glens,9
-ART,"Ambulance response time, median",2011,2011,N09000005,Derry City and Strabane,12
-ART,"Ambulance response time, median",2011,2011,N09000006,Fermanagh and Omagh,45
-ART,"Ambulance response time, median",2011,2011,N09000007,Lisburn and Castlereagh,40
-ART,"Ambulance response time, median",2011,2011,N09000008,Mid and East Antrim,10
-ART,"Ambulance response time, median",2011,2011,N09000009,Mid Ulster,24
-ART,"Ambulance response time, median",2011,2011,N09000010,"Newry, Mourne and Down",24
-ART,"Ambulance response time, median",2011,2011,N09000011,Ards and North Down,29
-ART,"Ambulance response time, median",2011,2011,N92000002,NI,50
-ART,"Ambulance response time, median",2012,2012,N09000001,Antrim and Newtownabbey,28
-ART,"Ambulance response time, median",2012,2012,N09000002,"Armagh City, Banbridge and Craigavon",2
-ART,"Ambulance response time, median",2012,2012,N09000003,Belfast,3
-ART,"Ambulance response time, median",2012,2012,N09000004,Causeway Coast and Glens,58
-ART,"Ambulance response time, median",2012,2012,N09000005,Derry City and Strabane,47
-ART,"Ambulance response time, median",2012,2012,N09000006,Fermanagh and Omagh,46
-ART,"Ambulance response time, median",2012,2012,N09000007,Lisburn and Castlereagh,24
-ART,"Ambulance response time, median",2012,2012,N09000008,Mid and East Antrim,11
-ART,"Ambulance response time, median",2012,2012,N09000009,Mid Ulster,27
-ART,"Ambulance response time, median",2012,2012,N09000010,"Newry, Mourne and Down",6
-ART,"Ambulance response time, median",2012,2012,N09000011,Ards and North Down,34
-ART,"Ambulance response time, median",2012,2012,N92000002,NI,51
-ART,"Ambulance response time, median",2013,2013,N09000001,Antrim and Newtownabbey,8
-ART,"Ambulance response time, median",2013,2013,N09000002,"Armagh City, Banbridge and Craigavon",28
-ART,"Ambulance response time, median",2013,2013,N09000003,Belfast,59
-ART,"Ambulance response time, median",2013,2013,N09000004,Causeway Coast and Glens,1
-ART,"Ambulance response time, median",2013,2013,N09000005,Derry City and Strabane,10
-ART,"Ambulance response time, median",2013,2013,N09000006,Fermanagh and Omagh,18
-ART,"Ambulance response time, median",2013,2013,N09000007,Lisburn and Castlereagh,33
-ART,"Ambulance response time, median",2013,2013,N09000008,Mid and East Antrim,18
-ART,"Ambulance response time, median",2013,2013,N09000009,Mid Ulster,41
-ART,"Ambulance response time, median",2013,2013,N09000010,"Newry, Mourne and Down",48
-ART,"Ambulance response time, median",2013,2013,N09000011,Ards and North Down,19
-ART,"Ambulance response time, median",2013,2013,N92000002,NI,48
-ART,"Ambulance response time, median",2014,2014,N09000001,Antrim and Newtownabbey,44
-ART,"Ambulance response time, median",2014,2014,N09000002,"Armagh City, Banbridge and Craigavon",50
-ART,"Ambulance response time, median",2014,2014,N09000003,Belfast,24
-ART,"Ambulance response time, median",2014,2014,N09000004,Causeway Coast and Glens,33
-ART,"Ambulance response time, median",2014,2014,N09000005,Derry City and Strabane,14
-ART,"Ambulance response time, median",2014,2014,N09000006,Fermanagh and Omagh,0
-ART,"Ambulance response time, median",2014,2014,N09000007,Lisburn and Castlereagh,31
-ART,"Ambulance response time, median",2014,2014,N09000008,Mid and East Antrim,13
-ART,"Ambulance response time, median",2014,2014,N09000009,Mid Ulster,12
-ART,"Ambulance response time, median",2014,2014,N09000010,"Newry, Mourne and Down",39
-ART,"Ambulance response time, median",2014,2014,N09000011,Ards and North Down,48
-ART,"Ambulance response time, median",2014,2014,N92000002,NI,15
-ART,"Ambulance response time, median",2015,2015,N09000001,Antrim and Newtownabbey,6
-ART,"Ambulance response time, median",2015,2015,N09000002,"Armagh City, Banbridge and Craigavon",5
-ART,"Ambulance response time, median",2015,2015,N09000003,Belfast,10
-ART,"Ambulance response time, median",2015,2015,N09000004,Causeway Coast and Glens,32
-ART,"Ambulance response time, median",2015,2015,N09000005,Derry City and Strabane,58
-ART,"Ambulance response time, median",2015,2015,N09000006,Fermanagh and Omagh,15
-ART,"Ambulance response time, median",2015,2015,N09000007,Lisburn and Castlereagh,18
-ART,"Ambulance response time, median",2015,2015,N09000008,Mid and East Antrim,16
-ART,"Ambulance response time, median",2015,2015,N09000009,Mid Ulster,0
-ART,"Ambulance response time, median",2015,2015,N09000010,"Newry, Mourne and Down",22
-ART,"Ambulance response time, median",2015,2015,N09000011,Ards and North Down,55
-ART,"Ambulance response time, median",2015,2015,N92000002,NI,21
-ART,"Ambulance response time, median",2016,2016,N09000001,Antrim and Newtownabbey,5
-ART,"Ambulance response time, median",2016,2016,N09000002,"Armagh City, Banbridge and Craigavon",4
-ART,"Ambulance response time, median",2016,2016,N09000003,Belfast,18
-ART,"Ambulance response time, median",2016,2016,N09000004,Causeway Coast and Glens,34
-ART,"Ambulance response time, median",2016,2016,N09000005,Derry City and Strabane,38
-ART,"Ambulance response time, median",2016,2016,N09000006,Fermanagh and Omagh,1
-ART,"Ambulance response time, median",2016,2016,N09000007,Lisburn and Castlereagh,56
-ART,"Ambulance response time, median",2016,2016,N09000008,Mid and East Antrim,3
-ART,"Ambulance response time, median",2016,2016,N09000009,Mid Ulster,18
-ART,"Ambulance response time, median",2016,2016,N09000010,"Newry, Mourne and Down",4
-ART,"Ambulance response time, median",2016,2016,N09000011,Ards and North Down,0
-ART,"Ambulance response time, median",2016,2016,N92000002,NI,57
-ART,"Ambulance response time, median",2017,2017,N09000001,Antrim and Newtownabbey,26
-ART,"Ambulance response time, median",2017,2017,N09000002,"Armagh City, Banbridge and Craigavon",9
-ART,"Ambulance response time, median",2017,2017,N09000003,Belfast,52
-ART,"Ambulance response time, median",2017,2017,N09000004,Causeway Coast and Glens,16
-ART,"Ambulance response time, median",2017,2017,N09000005,Derry City and Strabane,22
-ART,"Ambulance response time, median",2017,2017,N09000006,Fermanagh and Omagh,44
-ART,"Ambulance response time, median",2017,2017,N09000007,Lisburn and Castlereagh,47
-ART,"Ambulance response time, median",2017,2017,N09000008,Mid and East Antrim,57
-ART,"Ambulance response time, median",2017,2017,N09000009,Mid Ulster,7
-ART,"Ambulance response time, median",2017,2017,N09000010,"Newry, Mourne and Down",25
-ART,"Ambulance response time, median",2017,2017,N09000011,Ards and North Down,58
-ART,"Ambulance response time, median",2017,2017,N92000002,NI,36
-ART,"Ambulance response time, median",2018,2018,N09000001,Antrim and Newtownabbey,38
-ART,"Ambulance response time, median",2018,2018,N09000002,"Armagh City, Banbridge and Craigavon",17
-ART,"Ambulance response time, median",2018,2018,N09000003,Belfast,0
-ART,"Ambulance response time, median",2018,2018,N09000004,Causeway Coast and Glens,47
-ART,"Ambulance response time, median",2018,2018,N09000005,Derry City and Strabane,6
-ART,"Ambulance response time, median",2018,2018,N09000006,Fermanagh and Omagh,32
-ART,"Ambulance response time, median",2018,2018,N09000007,Lisburn and Castlereagh,49
-ART,"Ambulance response time, median",2018,2018,N09000008,Mid and East Antrim,11
-ART,"Ambulance response time, median",2018,2018,N09000009,Mid Ulster,21
-ART,"Ambulance response time, median",2018,2018,N09000010,"Newry, Mourne and Down",10
-ART,"Ambulance response time, median",2018,2018,N09000011,Ards and North Down,1
-ART,"Ambulance response time, median",2018,2018,N92000002,NI,36
-ART,"Ambulance response time, median",2019,2019,N09000001,Antrim and Newtownabbey,26
-ART,"Ambulance response time, median",2019,2019,N09000002,"Armagh City, Banbridge and Craigavon",50
-ART,"Ambulance response time, median",2019,2019,N09000003,Belfast,25
-ART,"Ambulance response time, median",2019,2019,N09000004,Causeway Coast and Glens,21
-ART,"Ambulance response time, median",2019,2019,N09000005,Derry City and Strabane,28
-ART,"Ambulance response time, median",2019,2019,N09000006,Fermanagh and Omagh,41
-ART,"Ambulance response time, median",2019,2019,N09000007,Lisburn and Castlereagh,56
-ART,"Ambulance response time, median",2019,2019,N09000008,Mid and East Antrim,10
-ART,"Ambulance response time, median",2019,2019,N09000009,Mid Ulster,5
-ART,"Ambulance response time, median",2019,2019,N09000010,"Newry, Mourne and Down",48
-ART,"Ambulance response time, median",2019,2019,N09000011,Ards and North Down,4
-ART,"Ambulance response time, median",2019,2019,N92000002,NI,36
-ART,"Ambulance response time, median",2020,2020,N09000001,Antrim and Newtownabbey,45
-ART,"Ambulance response time, median",2020,2020,N09000002,"Armagh City, Banbridge and Craigavon",36
-ART,"Ambulance response time, median",2020,2020,N09000003,Belfast,6
-ART,"Ambulance response time, median",2020,2020,N09000004,Causeway Coast and Glens,41
-ART,"Ambulance response time, median",2020,2020,N09000005,Derry City and Strabane,58
-ART,"Ambulance response time, median",2020,2020,N09000006,Fermanagh and Omagh,2
-ART,"Ambulance response time, median",2020,2020,N09000007,Lisburn and Castlereagh,15
-ART,"Ambulance response time, median",2020,2020,N09000008,Mid and East Antrim,53
-ART,"Ambulance response time, median",2020,2020,N09000009,Mid Ulster,20
-ART,"Ambulance response time, median",2020,2020,N09000010,"Newry, Mourne and Down",27
-ART,"Ambulance response time, median",2020,2020,N09000011,Ards and North Down,13
-ART,"Ambulance response time, median",2020,2020,N92000002,NI,14
-ART,"Ambulance response time, median",2021,2021,N09000001,Antrim and Newtownabbey,34
-ART,"Ambulance response time, median",2021,2021,N09000002,"Armagh City, Banbridge and Craigavon",19
-ART,"Ambulance response time, median",2021,2021,N09000003,Belfast,18
-ART,"Ambulance response time, median",2021,2021,N09000004,Causeway Coast and Glens,13
-ART,"Ambulance response time, median",2021,2021,N09000005,Derry City and Strabane,45
-ART,"Ambulance response time, median",2021,2021,N09000006,Fermanagh and Omagh,25
-ART,"Ambulance response time, median",2021,2021,N09000007,Lisburn and Castlereagh,12
-ART,"Ambulance response time, median",2021,2021,N09000008,Mid and East Antrim,47
-ART,"Ambulance response time, median",2021,2021,N09000009,Mid Ulster,4
-ART,"Ambulance response time, median",2021,2021,N09000010,"Newry, Mourne and Down",24
-ART,"Ambulance response time, median",2021,2021,N09000011,Ards and North Down,50
-ART,"Ambulance response time, median",2021,2021,N92000002,NI,37
+ART,"Ambulance response time, median",2010,2010,N09000001,Antrim and Newtownabbey,442
+ART,"Ambulance response time, median",2010,2010,N09000002,"Armagh City, Banbridge and Craigavon",429
+ART,"Ambulance response time, median",2010,2010,N09000003,Belfast,340
+ART,"Ambulance response time, median",2010,2010,N09000004,Causeway Coast and Glens,529
+ART,"Ambulance response time, median",2010,2010,N09000005,Derry City and Strabane,379
+ART,"Ambulance response time, median",2010,2010,N09000006,Fermanagh and Omagh,371
+ART,"Ambulance response time, median",2010,2010,N09000007,Lisburn and Castlereagh,362
+ART,"Ambulance response time, median",2010,2010,N09000008,Mid and East Antrim,415
+ART,"Ambulance response time, median",2010,2010,N09000009,Mid Ulster,498
+ART,"Ambulance response time, median",2010,2010,N09000010,"Newry, Mourne and Down",431
+ART,"Ambulance response time, median",2010,2010,N09000011,Ards and North Down,388
+ART,"Ambulance response time, median",2010,2010,N92000002,NI,389
+ART,"Ambulance response time, median",2011,2011,N09000001,Antrim and Newtownabbey,386
+ART,"Ambulance response time, median",2011,2011,N09000002,"Armagh City, Banbridge and Craigavon",379
+ART,"Ambulance response time, median",2011,2011,N09000003,Belfast,298
+ART,"Ambulance response time, median",2011,2011,N09000004,Causeway Coast and Glens,489
+ART,"Ambulance response time, median",2011,2011,N09000005,Derry City and Strabane,312
+ART,"Ambulance response time, median",2011,2011,N09000006,Fermanagh and Omagh,345
+ART,"Ambulance response time, median",2011,2011,N09000007,Lisburn and Castlereagh,340
+ART,"Ambulance response time, median",2011,2011,N09000008,Mid and East Antrim,370
+ART,"Ambulance response time, median",2011,2011,N09000009,Mid Ulster,504
+ART,"Ambulance response time, median",2011,2011,N09000010,"Newry, Mourne and Down",384
+ART,"Ambulance response time, median",2011,2011,N09000011,Ards and North Down,389
+ART,"Ambulance response time, median",2011,2011,N92000002,NI,350
+ART,"Ambulance response time, median",2012,2012,N09000001,Antrim and Newtownabbey,448
+ART,"Ambulance response time, median",2012,2012,N09000002,"Armagh City, Banbridge and Craigavon",422
+ART,"Ambulance response time, median",2012,2012,N09000003,Belfast,363
+ART,"Ambulance response time, median",2012,2012,N09000004,Causeway Coast and Glens,538
+ART,"Ambulance response time, median",2012,2012,N09000005,Derry City and Strabane,347
+ART,"Ambulance response time, median",2012,2012,N09000006,Fermanagh and Omagh,406
+ART,"Ambulance response time, median",2012,2012,N09000007,Lisburn and Castlereagh,384
+ART,"Ambulance response time, median",2012,2012,N09000008,Mid and East Antrim,431
+ART,"Ambulance response time, median",2012,2012,N09000009,Mid Ulster,567
+ART,"Ambulance response time, median",2012,2012,N09000010,"Newry, Mourne and Down",486
+ART,"Ambulance response time, median",2012,2012,N09000011,Ards and North Down,454
+ART,"Ambulance response time, median",2012,2012,N92000002,NI,411
+ART,"Ambulance response time, median",2013,2013,N09000001,Antrim and Newtownabbey,428
+ART,"Ambulance response time, median",2013,2013,N09000002,"Armagh City, Banbridge and Craigavon",448
+ART,"Ambulance response time, median",2013,2013,N09000003,Belfast,359
+ART,"Ambulance response time, median",2013,2013,N09000004,Causeway Coast and Glens,541
+ART,"Ambulance response time, median",2013,2013,N09000005,Derry City and Strabane,370
+ART,"Ambulance response time, median",2013,2013,N09000006,Fermanagh and Omagh,378
+ART,"Ambulance response time, median",2013,2013,N09000007,Lisburn and Castlereagh,393
+ART,"Ambulance response time, median",2013,2013,N09000008,Mid and East Antrim,438
+ART,"Ambulance response time, median",2013,2013,N09000009,Mid Ulster,581
+ART,"Ambulance response time, median",2013,2013,N09000010,"Newry, Mourne and Down",468
+ART,"Ambulance response time, median",2013,2013,N09000011,Ards and North Down,439
+ART,"Ambulance response time, median",2013,2013,N92000002,NI,408
+ART,"Ambulance response time, median",2014,2014,N09000001,Antrim and Newtownabbey,524
+ART,"Ambulance response time, median",2014,2014,N09000002,"Armagh City, Banbridge and Craigavon",530
+ART,"Ambulance response time, median",2014,2014,N09000003,Belfast,444
+ART,"Ambulance response time, median",2014,2014,N09000004,Causeway Coast and Glens,573
+ART,"Ambulance response time, median",2014,2014,N09000005,Derry City and Strabane,374
+ART,"Ambulance response time, median",2014,2014,N09000006,Fermanagh and Omagh,540
+ART,"Ambulance response time, median",2014,2014,N09000007,Lisburn and Castlereagh,511
+ART,"Ambulance response time, median",2014,2014,N09000008,Mid and East Antrim,553
+ART,"Ambulance response time, median",2014,2014,N09000009,Mid Ulster,612
+ART,"Ambulance response time, median",2014,2014,N09000010,"Newry, Mourne and Down",639
+ART,"Ambulance response time, median",2014,2014,N09000011,Ards and North Down,588
+ART,"Ambulance response time, median",2014,2014,N92000002,NI,495
+ART,"Ambulance response time, median",2015,2015,N09000001,Antrim and Newtownabbey,606
+ART,"Ambulance response time, median",2015,2015,N09000002,"Armagh City, Banbridge and Craigavon",605
+ART,"Ambulance response time, median",2015,2015,N09000003,Belfast,490
+ART,"Ambulance response time, median",2015,2015,N09000004,Causeway Coast and Glens,692
+ART,"Ambulance response time, median",2015,2015,N09000005,Derry City and Strabane,418
+ART,"Ambulance response time, median",2015,2015,N09000006,Fermanagh and Omagh,615
+ART,"Ambulance response time, median",2015,2015,N09000007,Lisburn and Castlereagh,558
+ART,"Ambulance response time, median",2015,2015,N09000008,Mid and East Antrim,556
+ART,"Ambulance response time, median",2015,2015,N09000009,Mid Ulster,720
+ART,"Ambulance response time, median",2015,2015,N09000010,"Newry, Mourne and Down",682
+ART,"Ambulance response time, median",2015,2015,N09000011,Ards and North Down,655
+ART,"Ambulance response time, median",2015,2015,N92000002,NI,561
+ART,"Ambulance response time, median",2016,2016,N09000001,Antrim and Newtownabbey,665
+ART,"Ambulance response time, median",2016,2016,N09000002,"Armagh City, Banbridge and Craigavon",664
+ART,"Ambulance response time, median",2016,2016,N09000003,Belfast,498
+ART,"Ambulance response time, median",2016,2016,N09000004,Causeway Coast and Glens,754
+ART,"Ambulance response time, median",2016,2016,N09000005,Derry City and Strabane,458
+ART,"Ambulance response time, median",2016,2016,N09000006,Fermanagh and Omagh,481
+ART,"Ambulance response time, median",2016,2016,N09000007,Lisburn and Castlereagh,596
+ART,"Ambulance response time, median",2016,2016,N09000008,Mid and East Antrim,723
+ART,"Ambulance response time, median",2016,2016,N09000009,Mid Ulster,798
+ART,"Ambulance response time, median",2016,2016,N09000010,"Newry, Mourne and Down",784
+ART,"Ambulance response time, median",2016,2016,N09000011,Ards and North Down,660
+ART,"Ambulance response time, median",2016,2016,N92000002,NI,597
+ART,"Ambulance response time, median",2017,2017,N09000001,Antrim and Newtownabbey,626
+ART,"Ambulance response time, median",2017,2017,N09000002,"Armagh City, Banbridge and Craigavon",729
+ART,"Ambulance response time, median",2017,2017,N09000003,Belfast,532
+ART,"Ambulance response time, median",2017,2017,N09000004,Causeway Coast and Glens,676
+ART,"Ambulance response time, median",2017,2017,N09000005,Derry City and Strabane,502
+ART,"Ambulance response time, median",2017,2017,N09000006,Fermanagh and Omagh,644
+ART,"Ambulance response time, median",2017,2017,N09000007,Lisburn and Castlereagh,647
+ART,"Ambulance response time, median",2017,2017,N09000008,Mid and East Antrim,777
+ART,"Ambulance response time, median",2017,2017,N09000009,Mid Ulster,907
+ART,"Ambulance response time, median",2017,2017,N09000010,"Newry, Mourne and Down",865
+ART,"Ambulance response time, median",2017,2017,N09000011,Ards and North Down,658
+ART,"Ambulance response time, median",2017,2017,N92000002,NI,636
+ART,"Ambulance response time, median",2018,2018,N09000001,Antrim and Newtownabbey,938
+ART,"Ambulance response time, median",2018,2018,N09000002,"Armagh City, Banbridge and Craigavon",797
+ART,"Ambulance response time, median",2018,2018,N09000003,Belfast,660
+ART,"Ambulance response time, median",2018,2018,N09000004,Causeway Coast and Glens,1007
+ART,"Ambulance response time, median",2018,2018,N09000005,Derry City and Strabane,606
+ART,"Ambulance response time, median",2018,2018,N09000006,Fermanagh and Omagh,752
+ART,"Ambulance response time, median",2018,2018,N09000007,Lisburn and Castlereagh,829
+ART,"Ambulance response time, median",2018,2018,N09000008,Mid and East Antrim,1091
+ART,"Ambulance response time, median",2018,2018,N09000009,Mid Ulster,1041
+ART,"Ambulance response time, median",2018,2018,N09000010,"Newry, Mourne and Down",970
+ART,"Ambulance response time, median",2018,2018,N09000011,Ards and North Down,961
+ART,"Ambulance response time, median",2018,2018,N92000002,NI,816
+ART,"Ambulance response time, median",2019,2019,N09000001,Antrim and Newtownabbey,926
+ART,"Ambulance response time, median",2019,2019,N09000002,"Armagh City, Banbridge and Craigavon",1130
+ART,"Ambulance response time, median",2019,2019,N09000003,Belfast,745
+ART,"Ambulance response time, median",2019,2019,N09000004,Causeway Coast and Glens,981
+ART,"Ambulance response time, median",2019,2019,N09000005,Derry City and Strabane,628
+ART,"Ambulance response time, median",2019,2019,N09000006,Fermanagh and Omagh,881
+ART,"Ambulance response time, median",2019,2019,N09000007,Lisburn and Castlereagh,1016
+ART,"Ambulance response time, median",2019,2019,N09000008,Mid and East Antrim,1090
+ART,"Ambulance response time, median",2019,2019,N09000009,Mid Ulster,1145
+ART,"Ambulance response time, median",2019,2019,N09000010,"Newry, Mourne and Down",1248
+ART,"Ambulance response time, median",2019,2019,N09000011,Ards and North Down,1024
+ART,"Ambulance response time, median",2019,2019,N92000002,NI,936
+ART,"Ambulance response time, median",2020,2020,N09000001,Antrim and Newtownabbey,1065
+ART,"Ambulance response time, median",2020,2020,N09000002,"Armagh City, Banbridge and Craigavon",996
+ART,"Ambulance response time, median",2020,2020,N09000003,Belfast,846
+ART,"Ambulance response time, median",2020,2020,N09000004,Causeway Coast and Glens,1061
+ART,"Ambulance response time, median",2020,2020,N09000005,Derry City and Strabane,778
+ART,"Ambulance response time, median",2020,2020,N09000006,Fermanagh and Omagh,1022
+ART,"Ambulance response time, median",2020,2020,N09000007,Lisburn and Castlereagh,1155
+ART,"Ambulance response time, median",2020,2020,N09000008,Mid and East Antrim,1073
+ART,"Ambulance response time, median",2020,2020,N09000009,Mid Ulster,1220
+ART,"Ambulance response time, median",2020,2020,N09000010,"Newry, Mourne and Down",1587
+ART,"Ambulance response time, median",2020,2020,N09000011,Ards and North Down,1213
+ART,"Ambulance response time, median",2020,2020,N92000002,NI,1034
+ART,"Ambulance response time, median",2021,2021,N09000001,Antrim and Newtownabbey,1354
+ART,"Ambulance response time, median",2021,2021,N09000002,"Armagh City, Banbridge and Craigavon",1639
+ART,"Ambulance response time, median",2021,2021,N09000003,Belfast,1338
+ART,"Ambulance response time, median",2021,2021,N09000004,Causeway Coast and Glens,1393
+ART,"Ambulance response time, median",2021,2021,N09000005,Derry City and Strabane,825
+ART,"Ambulance response time, median",2021,2021,N09000006,Fermanagh and Omagh,1165
+ART,"Ambulance response time, median",2021,2021,N09000007,Lisburn and Castlereagh,1872
+ART,"Ambulance response time, median",2021,2021,N09000008,Mid and East Antrim,1727
+ART,"Ambulance response time, median",2021,2021,N09000009,Mid Ulster,1624
+ART,"Ambulance response time, median",2021,2021,N09000010,"Newry, Mourne and Down",2244
+ART,"Ambulance response time, median",2021,2021,N09000011,Ards and North Down,1790
+ART,"Ambulance response time, median",2021,2021,N92000002,NI,1477
