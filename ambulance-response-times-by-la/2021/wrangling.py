@@ -1,4 +1,3 @@
-from email.policy import default
 import click
 import pandas as pd
 from pathlib import Path
