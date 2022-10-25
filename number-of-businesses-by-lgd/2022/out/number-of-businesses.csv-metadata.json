@@ -1,0 +1,477 @@
+{
+    "@context": "http://www.w3.org/ns/csvw",
+    "@id": "number-of-businesses.csv#dataset",
+    "tables": [
+        {
+            "url": "number-of-businesses.csv",
+            "tableSchema": {
+                "columns": [
+                    {
+                        "titles": "STATISTIC CODE",
+                        "name": "statistic_code",
+                        "suppressOutput": true
+                    },
+                    {
+                        "titles": "Statistic",
+                        "name": "statistic",
+                        "propertyUrl": "http://purl.org/linked-data/cube#measureType",
+                        "valueUrl": "number-of-businesses.csv#measure/{+statistic}",
+                        "required": true
+                    },
+                    {
+                        "titles": "TLIST(A1)",
+                        "name": "tlist_a1",
+                        "suppressOutput": true
+                    },
+                    {
+                        "titles": "Year",
+                        "name": "year",
+                        "propertyUrl": "number-of-businesses.csv#dimension/year",
+                        "valueUrl": "year.csv#{+year}",
+                        "required": true
+                    },
+                    {
+                        "titles": "LGD2014",
+                        "name": "lgd2014",
+                        "propertyUrl": "number-of-businesses.csv#dimension/geography",
+                        "valueUrl": "http://statistics.data.gov.uk/id/statistical-geography/{+lgd2014}",
+                        "required": true
+                    },
+                    {
+                        "titles": "Local Government District 2014",
+                        "name": "local_government_district_2014",
+                        "suppressOutput": true
+                    },
+                    {
+                        "titles": "UNIT",
+                        "name": "unit",
+                        "suppressOutput": true
+                    },
+                    {
+                        "titles": "VALUE",
+                        "name": "value",
+                        "propertyUrl": "number-of-businesses.csv#measure/{+statistic}",
+                        "datatype": "int",
+                        "required": true
+                    },
+                    {
+                        "name": "virt_type",
+                        "virtual": true,
+                        "propertyUrl": "rdf:type",
+                        "valueUrl": "http://purl.org/linked-data/cube#Observation"
+                    },
+                    {
+                        "name": "virt_dataset",
+                        "virtual": true,
+                        "propertyUrl": "http://purl.org/linked-data/cube#dataSet",
+                        "valueUrl": "number-of-businesses.csv#dataset"
+                    },
+                    {
+                        "name": "virt_unit",
+                        "virtual": true,
+                        "propertyUrl": "http://purl.org/linked-data/sdmx/2009/attribute#unitMeasure",
+                        "valueUrl": "number-of-businesses.csv#unit/number"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": "year",
+                        "reference": {
+                            "resource": "year.csv",
+                            "columnReference": "uri_identifier"
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "year",
+                    "lgd2014",
+                    "statistic"
+                ],
+                "aboutUrl": "number-of-businesses.csv#obs/{year},{lgd2014}@{statistic}"
+            }
+        },
+        {
+            "url": "year.csv",
+            "tableSchema": "year.table.json",
+            "suppressOutput": true
+        }
+    ],
+    "rdfs:seeAlso": [
+        {
+            "@id": "number-of-businesses.csv#measure/number-of-businesses",
+            "@type": [
+                "http://www.w3.org/2000/01/rdf-schema#Resource",
+                "http://purl.org/linked-data/cube#MeasureProperty",
+                "http://purl.org/linked-data/cube#ComponentProperty",
+                "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property"
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#label": [
+                {
+                    "@language": "en",
+                    "@value": "Number of Businesses"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#range": [
+                {
+                    "@id": "http://www.w3.org/2001/XMLSchema#int"
+                }
+            ]
+        },
+        {
+            "@id": "number-of-businesses.csv#structure",
+            "@type": [
+                "http://www.w3.org/2000/01/rdf-schema#Resource",
+                "http://purl.org/linked-data/cube#DataStructureDefinition",
+                "http://purl.org/linked-data/cube#ComponentSet"
+            ],
+            "http://purl.org/linked-data/cube#component": [
+                {
+                    "@id": "number-of-businesses.csv#component/unit"
+                },
+                {
+                    "@id": "number-of-businesses.csv#component/year"
+                },
+                {
+                    "@id": "number-of-businesses.csv#component/measure-type"
+                },
+                {
+                    "@id": "number-of-businesses.csv#component/geography"
+                },
+                {
+                    "@id": "number-of-businesses.csv#component/number-of-businesses"
+                }
+            ],
+            "http://purl.org/linked-data/cube#componentProperty": [
+                {
+                    "@id": "number-of-businesses.csv#measure/number-of-businesses"
+                },
+                {
+                    "@id": "number-of-businesses.csv#dimension/year"
+                },
+                {
+                    "@id": "http://purl.org/linked-data/sdmx/2009/attribute#unitMeasure"
+                },
+                {
+                    "@id": "number-of-businesses.csv#dimension/geography"
+                },
+                {
+                    "@id": "http://purl.org/linked-data/cube#measureType"
+                }
+            ]
+        },
+        {
+            "@id": "number-of-businesses.csv#class/geography",
+            "@type": [
+                "http://www.w3.org/2000/01/rdf-schema#Resource",
+                "http://www.w3.org/2000/01/rdf-schema#Class"
+            ]
+        },
+        {
+            "@id": "number-of-businesses.csv#component/unit",
+            "@type": [
+                "http://purl.org/linked-data/cube#ComponentSpecification",
+                "http://www.w3.org/2000/01/rdf-schema#Resource",
+                "http://purl.org/linked-data/cube#ComponentSet"
+            ],
+            "http://purl.org/linked-data/cube#attribute": [
+                {
+                    "@id": "http://purl.org/linked-data/sdmx/2009/attribute#unitMeasure"
+                }
+            ],
+            "http://purl.org/linked-data/cube#componentProperty": [
+                {
+                    "@id": "http://purl.org/linked-data/sdmx/2009/attribute#unitMeasure"
+                }
+            ],
+            "http://purl.org/linked-data/cube#componentRequired": [
+                {
+                    "@value": true
+                }
+            ],
+            "http://purl.org/linked-data/cube#order": [
+                {
+                    "@value": 5
+                }
+            ]
+        },
+        {
+            "@id": "number-of-businesses.csv#class/year",
+            "@type": [
+                "http://www.w3.org/2000/01/rdf-schema#Resource",
+                "http://www.w3.org/2000/01/rdf-schema#Class"
+            ]
+        },
+        {
+            "@id": "number-of-businesses.csv#component/geography",
+            "@type": [
+                "http://purl.org/linked-data/cube#ComponentSpecification",
+                "http://www.w3.org/2000/01/rdf-schema#Resource",
+                "http://purl.org/linked-data/cube#ComponentSet"
+            ],
+            "http://purl.org/linked-data/cube#componentProperty": [
+                {
+                    "@id": "number-of-businesses.csv#dimension/geography"
+                }
+            ],
+            "http://purl.org/linked-data/cube#dimension": [
+                {
+                    "@id": "number-of-businesses.csv#dimension/geography"
+                }
+            ],
+            "http://purl.org/linked-data/cube#order": [
+                {
+                    "@value": 3
+                }
+            ]
+        },
+        {
+            "@id": "number-of-businesses.csv#component/measure-type",
+            "@type": [
+                "http://purl.org/linked-data/cube#ComponentSpecification",
+                "http://www.w3.org/2000/01/rdf-schema#Resource",
+                "http://purl.org/linked-data/cube#ComponentSet"
+            ],
+            "http://purl.org/linked-data/cube#componentProperty": [
+                {
+                    "@id": "http://purl.org/linked-data/cube#measureType"
+                }
+            ],
+            "http://purl.org/linked-data/cube#dimension": [
+                {
+                    "@id": "http://purl.org/linked-data/cube#measureType"
+                }
+            ],
+            "http://purl.org/linked-data/cube#order": [
+                {
+                    "@value": 4
+                }
+            ]
+        },
+        {
+            "@id": "number-of-businesses.csv#component/number-of-businesses",
+            "@type": [
+                "http://purl.org/linked-data/cube#ComponentSpecification",
+                "http://www.w3.org/2000/01/rdf-schema#Resource",
+                "http://purl.org/linked-data/cube#ComponentSet"
+            ],
+            "http://purl.org/linked-data/cube#componentProperty": [
+                {
+                    "@id": "number-of-businesses.csv#measure/number-of-businesses"
+                }
+            ],
+            "http://purl.org/linked-data/cube#measure": [
+                {
+                    "@id": "number-of-businesses.csv#measure/number-of-businesses"
+                }
+            ],
+            "http://purl.org/linked-data/cube#order": [
+                {
+                    "@value": 1
+                }
+            ]
+        },
+        {
+            "@id": "number-of-businesses.csv#dimension/geography",
+            "@type": [
+                "http://purl.org/linked-data/cube#DimensionProperty",
+                "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+                "http://purl.org/linked-data/cube#CodedProperty",
+                "http://www.w3.org/2000/01/rdf-schema#Resource",
+                "http://purl.org/linked-data/cube#ComponentProperty"
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#label": [
+                {
+                    "@language": "en",
+                    "@value": "Geography"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#range": [
+                {
+                    "@id": "number-of-businesses.csv#class/geography"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#subPropertyOf": [
+                {
+                    "@id": "http://purl.org/linked-data/sdmx/2009/dimension#refArea"
+                }
+            ]
+        },
+        {
+            "@id": "number-of-businesses.csv#dimension/year",
+            "@type": [
+                "http://purl.org/linked-data/cube#DimensionProperty",
+                "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+                "http://purl.org/linked-data/cube#CodedProperty",
+                "http://www.w3.org/2000/01/rdf-schema#Resource",
+                "http://purl.org/linked-data/cube#ComponentProperty"
+            ],
+            "http://purl.org/linked-data/cube#codeList": [
+                {
+                    "@id": "year.csv#code-list"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#label": [
+                {
+                    "@language": "en",
+                    "@value": "Year"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#range": [
+                {
+                    "@id": "number-of-businesses.csv#class/year"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#subPropertyOf": [
+                {
+                    "@id": "http://purl.org/linked-data/sdmx/2009/dimension#refPeriod"
+                }
+            ]
+        },
+        {
+            "@id": "number-of-businesses.csv#component/year",
+            "@type": [
+                "http://purl.org/linked-data/cube#ComponentSpecification",
+                "http://www.w3.org/2000/01/rdf-schema#Resource",
+                "http://purl.org/linked-data/cube#ComponentSet"
+            ],
+            "http://purl.org/linked-data/cube#componentProperty": [
+                {
+                    "@id": "number-of-businesses.csv#dimension/year"
+                }
+            ],
+            "http://purl.org/linked-data/cube#dimension": [
+                {
+                    "@id": "number-of-businesses.csv#dimension/year"
+                }
+            ],
+            "http://purl.org/linked-data/cube#order": [
+                {
+                    "@value": 2
+                }
+            ]
+        },
+        {
+            "@id": "number-of-businesses.csv#dataset",
+            "@type": [
+                "http://www.w3.org/ns/dcat#Resource",
+                "http://purl.org/linked-data/cube#Attachable",
+                "http://www.w3.org/2000/01/rdf-schema#Resource",
+                "http://www.w3.org/ns/dcat#Dataset",
+                "http://purl.org/linked-data/cube#DataSet"
+            ],
+            "http://purl.org/dc/terms/description": [
+                {
+                    "@type": "https://www.w3.org/ns/iana/media-types/text/markdown#Resource",
+                    "@value": "Note: Production includes Manufacturing and Mining"
+                }
+            ],
+            "http://purl.org/dc/terms/identifier": [
+                {
+                    "@value": "Number of Businesses"
+                }
+            ],
+            "http://purl.org/dc/terms/issued": [
+                {
+                    "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+                    "@value": "2022-10-25T12:56:43.755829"
+                }
+            ],
+            "http://purl.org/dc/terms/license": [
+                {
+                    "@id": "https://www.nisra.gov.uk/crown-copyright"
+                }
+            ],
+            "http://purl.org/dc/terms/modified": [
+                {
+                    "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+                    "@value": "2022-10-25T12:56:43.755829"
+                }
+            ],
+            "http://purl.org/dc/terms/publisher": [
+                {
+                    "@id": "https://www.gov.uk/government/organisations/northern-ireland-statistics-and-research-agency"
+                }
+            ],
+            "http://purl.org/dc/terms/title": [
+                {
+                    "@language": "en",
+                    "@value": "Number of Businesses"
+                }
+            ],
+            "http://purl.org/linked-data/cube#structure": [
+                {
+                    "@id": "number-of-businesses.csv#structure"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#comment": [
+                {
+                    "@language": "en",
+                    "@value": "Number of Businesses"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#label": [
+                {
+                    "@language": "en",
+                    "@value": "Number of Businesses"
+                }
+            ],
+            "http://www.w3.org/ns/dcat#theme": [
+                {
+                    "@id": "https://www.ons.gov.uk/businessindustryandtrade/business/activitysizeandlocation"
+                }
+            ]
+        },
+        {
+            "@id": "number-of-businesses.csv#dependency/year",
+            "@type": [
+                "http://www.w3.org/2000/01/rdf-schema#Resource",
+                "http://rdfs.org/ns/void#Dataset"
+            ],
+            "http://rdfs.org/ns/void#dataDump": [
+                {
+                    "@id": "./year.csv-metadata.json"
+                }
+            ],
+            "http://rdfs.org/ns/void#uriSpace": [
+                {
+                    "@value": "year.csv#"
+                }
+            ]
+        },
+        {
+            "@id": "number-of-businesses.csv#unit/number",
+            "@type": [
+                "http://www.w3.org/2000/01/rdf-schema#Resource",
+                "http://www.ontology-of-units-of-measure.org/resource/om-2/Unit",
+                "http://qudt.org/schema/qudt/Unit"
+            ],
+            "http://qudt.org/schema/qudt/isScalingOf": [
+                {
+                    "@id": "http://qudt.org/vocab/unit/SEC"
+                }
+            ],
+            "http://www.ontology-of-units-of-measure.org/resource/om-2/hasFactor": [
+                {
+                    "@type": "http://www.w3.org/2001/XMLSchema#float",
+                    "@value": "1.0"
+                }
+            ],
+            "http://www.ontology-of-units-of-measure.org/resource/om-2/hasUnit": [
+                {
+                    "@id": "http://qudt.org/vocab/unit/SEC"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+                {
+                    "@id": "http://qudt.org/vocab/unit/SEC"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#label": [
+                {
+                    "@language": "en",
+                    "@value": "Number"
+                }
+            ]
+        }
+    ]
+}
