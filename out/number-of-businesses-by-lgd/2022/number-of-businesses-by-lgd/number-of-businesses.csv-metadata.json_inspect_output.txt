@@ -1,0 +1,78 @@
+
+- This file is a data cube.
+
+- The data cube has the following catalog metadata:
+        - Title: Number of Businesses
+        - Label: Number of Businesses
+        - Issued: 2022-10-26T13:18:33.679096
+        - Modified: 2022-10-26T13:18:33.679096
+        - License: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+        - Creator: None
+        - Publisher: https://www.gov.uk/government/organisations/northern-ireland-statistics-and-research-agency
+        - Landing Pages: None
+        - Themes: 
+		-- https://www.ons.gov.uk/businessindustryandtrade/business/activitysizeandlocation
+        - Keywords: None
+        - Contact Point: None
+        - Identifier: Number of Businesses
+        - Comment: Number of Businesses
+        - Description: Note: Production includes Manufacturing and Mining
+        
+
+- The data cube has the following data structure definition:
+        - Dataset Label: Number of Businesses
+        - Number of Components: 5
+        - Components:
+                                                   Property       Property Label Property Type Column Title  Required
+      number-of-businesses.csv#measure/number-of-businesses Number of Businesses       Measure                   True
+                    number-of-businesses.csv#dimension/year                 Year     Dimension         Year      True
+               number-of-businesses.csv#dimension/geography            Geography     Dimension      LGD2014      True
+               http://purl.org/linked-data/cube#measureType                          Dimension    Statistic      True
+http://purl.org/linked-data/sdmx/2009/attribute#unitMeasure                          Attribute                   True
+        - Columns where suppress output is true: 
+		-- STATISTIC CODE
+		-- UNIT
+		-- Local Government District 2014
+		-- TLIST(A1)
+		-- Uri Identifier
+
+- The data cube has the following code list information:
+        - Number of Code Lists: 1
+        - Code Lists:
+         Code List Code List Label Columns Used In
+year.csv#code-list            Year            Year
+
+- The data cube has the following dataset information:
+        - Number of Observations: 120
+        - Number of Duplicates: 0
+        - First 10 Observations: 
+STATISTIC CODE            Statistic  TLIST(A1)  Year   LGD2014       Local Government District 2014   UNIT  VALUE
+       BCOUNTS number-of-businesses       2013  2013 N09000001              Antrim and Newtownabbey Number   3850
+       BCOUNTS number-of-businesses       2013  2013 N09000002 Armagh City, Banbridge and Craigavon Number   7870
+       BCOUNTS number-of-businesses       2013  2013 N09000003                              Belfast Number   9620
+       BCOUNTS number-of-businesses       2013  2013 N09000004             Causeway Coast and Glens Number   5595
+       BCOUNTS number-of-businesses       2013  2013 N09000005              Derry City and Strabane Number   4500
+       BCOUNTS number-of-businesses       2013  2013 N09000006                  Fermanagh and Omagh Number   7355
+       BCOUNTS number-of-businesses       2013  2013 N09000007              Lisburn and Castlereagh Number   4380
+       BCOUNTS number-of-businesses       2013  2013 N09000008                  Mid and East Antrim Number   4580
+       BCOUNTS number-of-businesses       2013  2013 N09000009                           Mid Ulster Number   7990
+       BCOUNTS number-of-businesses       2013  2013 N09000010               Newry, Mourne and Down Number   7580
+        - Last 10 Observations: 
+STATISTIC CODE            Statistic  TLIST(A1)  Year   LGD2014 Local Government District 2014   UNIT  VALUE
+       BCOUNTS number-of-businesses       2022  2022 N09000003                        Belfast Number  11405
+       BCOUNTS number-of-businesses       2022  2022 N09000004       Causeway Coast and Glens Number   6280
+       BCOUNTS number-of-businesses       2022  2022 N09000005        Derry City and Strabane Number   5455
+       BCOUNTS number-of-businesses       2022  2022 N09000006            Fermanagh and Omagh Number   8455
+       BCOUNTS number-of-businesses       2022  2022 N09000007        Lisburn and Castlereagh Number   5185
+       BCOUNTS number-of-businesses       2022  2022 N09000008            Mid and East Antrim Number   5055
+       BCOUNTS number-of-businesses       2022  2022 N09000009                     Mid Ulster Number   9430
+       BCOUNTS number-of-businesses       2022  2022 N09000010         Newry, Mourne and Down Number   9175
+       BCOUNTS number-of-businesses       2022  2022 N09000011            Ards and North Down Number   4870
+       BCOUNTS number-of-businesses       2022  2022 N92000002               Northern Ireland Number  78885
+        
+
+- The data cube has the following value counts:
+        - Value counts broken-down by measure and unit (of measure):
+             Measure   Unit  Count
+number-of-businesses Number    120
+        

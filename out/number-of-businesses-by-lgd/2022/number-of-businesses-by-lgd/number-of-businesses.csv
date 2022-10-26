@@ -1,0 +1,121 @@
+STATISTIC CODE,Statistic,TLIST(A1),Year,LGD2014,Local Government District 2014,UNIT,VALUE
+BCOUNTS,number-of-businesses,2013,2013,N09000001,Antrim and Newtownabbey,Number,3850
+BCOUNTS,number-of-businesses,2013,2013,N09000002,"Armagh City, Banbridge and Craigavon",Number,7870
+BCOUNTS,number-of-businesses,2013,2013,N09000003,Belfast,Number,9620
+BCOUNTS,number-of-businesses,2013,2013,N09000004,Causeway Coast and Glens,Number,5595
+BCOUNTS,number-of-businesses,2013,2013,N09000005,Derry City and Strabane,Number,4500
+BCOUNTS,number-of-businesses,2013,2013,N09000006,Fermanagh and Omagh,Number,7355
+BCOUNTS,number-of-businesses,2013,2013,N09000007,Lisburn and Castlereagh,Number,4380
+BCOUNTS,number-of-businesses,2013,2013,N09000008,Mid and East Antrim,Number,4580
+BCOUNTS,number-of-businesses,2013,2013,N09000009,Mid Ulster,Number,7990
+BCOUNTS,number-of-businesses,2013,2013,N09000010,"Newry, Mourne and Down",Number,7580
+BCOUNTS,number-of-businesses,2013,2013,N09000011,Ards and North Down,Number,4430
+BCOUNTS,number-of-businesses,2013,2013,N92000002,Northern Ireland,Number,67745
+BCOUNTS,number-of-businesses,2014,2014,N09000001,Antrim and Newtownabbey,Number,3800
+BCOUNTS,number-of-businesses,2014,2014,N09000002,"Armagh City, Banbridge and Craigavon",Number,7810
+BCOUNTS,number-of-businesses,2014,2014,N09000003,Belfast,Number,9820
+BCOUNTS,number-of-businesses,2014,2014,N09000004,Causeway Coast and Glens,Number,5545
+BCOUNTS,number-of-businesses,2014,2014,N09000005,Derry City and Strabane,Number,4580
+BCOUNTS,number-of-businesses,2014,2014,N09000006,Fermanagh and Omagh,Number,7315
+BCOUNTS,number-of-businesses,2014,2014,N09000007,Lisburn and Castlereagh,Number,4395
+BCOUNTS,number-of-businesses,2014,2014,N09000008,Mid and East Antrim,Number,4530
+BCOUNTS,number-of-businesses,2014,2014,N09000009,Mid Ulster,Number,7985
+BCOUNTS,number-of-businesses,2014,2014,N09000010,"Newry, Mourne and Down",Number,7575
+BCOUNTS,number-of-businesses,2014,2014,N09000011,Ards and North Down,Number,4360
+BCOUNTS,number-of-businesses,2014,2014,N92000002,Northern Ireland,Number,67710
+BCOUNTS,number-of-businesses,2015,2015,N09000001,Antrim and Newtownabbey,Number,3815
+BCOUNTS,number-of-businesses,2015,2015,N09000002,"Armagh City, Banbridge and Craigavon",Number,7865
+BCOUNTS,number-of-businesses,2015,2015,N09000003,Belfast,Number,9810
+BCOUNTS,number-of-businesses,2015,2015,N09000004,Causeway Coast and Glens,Number,5510
+BCOUNTS,number-of-businesses,2015,2015,N09000005,Derry City and Strabane,Number,4630
+BCOUNTS,number-of-businesses,2015,2015,N09000006,Fermanagh and Omagh,Number,7435
+BCOUNTS,number-of-businesses,2015,2015,N09000007,Lisburn and Castlereagh,Number,4420
+BCOUNTS,number-of-businesses,2015,2015,N09000008,Mid and East Antrim,Number,4560
+BCOUNTS,number-of-businesses,2015,2015,N09000009,Mid Ulster,Number,8000
+BCOUNTS,number-of-businesses,2015,2015,N09000010,"Newry, Mourne and Down",Number,7675
+BCOUNTS,number-of-businesses,2015,2015,N09000011,Ards and North Down,Number,4360
+BCOUNTS,number-of-businesses,2015,2015,N92000002,Northern Ireland,Number,68085
+BCOUNTS,number-of-businesses,2016,2016,N09000001,Antrim and Newtownabbey,Number,3910
+BCOUNTS,number-of-businesses,2016,2016,N09000002,"Armagh City, Banbridge and Craigavon",Number,8100
+BCOUNTS,number-of-businesses,2016,2016,N09000003,Belfast,Number,10100
+BCOUNTS,number-of-businesses,2016,2016,N09000004,Causeway Coast and Glens,Number,5650
+BCOUNTS,number-of-businesses,2016,2016,N09000005,Derry City and Strabane,Number,4830
+BCOUNTS,number-of-businesses,2016,2016,N09000006,Fermanagh and Omagh,Number,7685
+BCOUNTS,number-of-businesses,2016,2016,N09000007,Lisburn and Castlereagh,Number,4530
+BCOUNTS,number-of-businesses,2016,2016,N09000008,Mid and East Antrim,Number,4665
+BCOUNTS,number-of-businesses,2016,2016,N09000009,Mid Ulster,Number,8250
+BCOUNTS,number-of-businesses,2016,2016,N09000010,"Newry, Mourne and Down",Number,7880
+BCOUNTS,number-of-businesses,2016,2016,N09000011,Ards and North Down,Number,4455
+BCOUNTS,number-of-businesses,2016,2016,N92000002,Northern Ireland,Number,70055
+BCOUNTS,number-of-businesses,2017,2017,N09000001,Antrim and Newtownabbey,Number,4020
+BCOUNTS,number-of-businesses,2017,2017,N09000002,"Armagh City, Banbridge and Craigavon",Number,8275
+BCOUNTS,number-of-businesses,2017,2017,N09000003,Belfast,Number,10295
+BCOUNTS,number-of-businesses,2017,2017,N09000004,Causeway Coast and Glens,Number,5760
+BCOUNTS,number-of-businesses,2017,2017,N09000005,Derry City and Strabane,Number,4945
+BCOUNTS,number-of-businesses,2017,2017,N09000006,Fermanagh and Omagh,Number,7780
+BCOUNTS,number-of-businesses,2017,2017,N09000007,Lisburn and Castlereagh,Number,4640
+BCOUNTS,number-of-businesses,2017,2017,N09000008,Mid and East Antrim,Number,4735
+BCOUNTS,number-of-businesses,2017,2017,N09000009,Mid Ulster,Number,8505
+BCOUNTS,number-of-businesses,2017,2017,N09000010,"Newry, Mourne and Down",Number,8110
+BCOUNTS,number-of-businesses,2017,2017,N09000011,Ards and North Down,Number,4555
+BCOUNTS,number-of-businesses,2017,2017,N92000002,Northern Ireland,Number,71615
+BCOUNTS,number-of-businesses,2018,2018,N09000001,Antrim and Newtownabbey,Number,4105
+BCOUNTS,number-of-businesses,2018,2018,N09000002,"Armagh City, Banbridge and Craigavon",Number,8555
+BCOUNTS,number-of-businesses,2018,2018,N09000003,Belfast,Number,10560
+BCOUNTS,number-of-businesses,2018,2018,N09000004,Causeway Coast and Glens,Number,5980
+BCOUNTS,number-of-businesses,2018,2018,N09000005,Derry City and Strabane,Number,5120
+BCOUNTS,number-of-businesses,2018,2018,N09000006,Fermanagh and Omagh,Number,8055
+BCOUNTS,number-of-businesses,2018,2018,N09000007,Lisburn and Castlereagh,Number,4755
+BCOUNTS,number-of-businesses,2018,2018,N09000008,Mid and East Antrim,Number,4875
+BCOUNTS,number-of-businesses,2018,2018,N09000009,Mid Ulster,Number,8865
+BCOUNTS,number-of-businesses,2018,2018,N09000010,"Newry, Mourne and Down",Number,8520
+BCOUNTS,number-of-businesses,2018,2018,N09000011,Ards and North Down,Number,4670
+BCOUNTS,number-of-businesses,2018,2018,N92000002,Northern Ireland,Number,74060
+BCOUNTS,number-of-businesses,2019,2019,N09000001,Antrim and Newtownabbey,Number,4175
+BCOUNTS,number-of-businesses,2019,2019,N09000002,"Armagh City, Banbridge and Craigavon",Number,8715
+BCOUNTS,number-of-businesses,2019,2019,N09000003,Belfast,Number,10705
+BCOUNTS,number-of-businesses,2019,2019,N09000004,Causeway Coast and Glens,Number,6075
+BCOUNTS,number-of-businesses,2019,2019,N09000005,Derry City and Strabane,Number,5260
+BCOUNTS,number-of-businesses,2019,2019,N09000006,Fermanagh and Omagh,Number,8200
+BCOUNTS,number-of-businesses,2019,2019,N09000007,Lisburn and Castlereagh,Number,4855
+BCOUNTS,number-of-businesses,2019,2019,N09000008,Mid and East Antrim,Number,4950
+BCOUNTS,number-of-businesses,2019,2019,N09000009,Mid Ulster,Number,9050
+BCOUNTS,number-of-businesses,2019,2019,N09000010,"Newry, Mourne and Down",Number,8745
+BCOUNTS,number-of-businesses,2019,2019,N09000011,Ards and North Down,Number,4755
+BCOUNTS,number-of-businesses,2019,2019,N92000002,Northern Ireland,Number,75490
+BCOUNTS,number-of-businesses,2020,2020,N09000001,Antrim and Newtownabbey,Number,4190
+BCOUNTS,number-of-businesses,2020,2020,N09000002,"Armagh City, Banbridge and Craigavon",Number,8725
+BCOUNTS,number-of-businesses,2020,2020,N09000003,Belfast,Number,11065
+BCOUNTS,number-of-businesses,2020,2020,N09000004,Causeway Coast and Glens,Number,6015
+BCOUNTS,number-of-businesses,2020,2020,N09000005,Derry City and Strabane,Number,5320
+BCOUNTS,number-of-businesses,2020,2020,N09000006,Fermanagh and Omagh,Number,8175
+BCOUNTS,number-of-businesses,2020,2020,N09000007,Lisburn and Castlereagh,Number,5010
+BCOUNTS,number-of-businesses,2020,2020,N09000008,Mid and East Antrim,Number,4955
+BCOUNTS,number-of-businesses,2020,2020,N09000009,Mid Ulster,Number,9035
+BCOUNTS,number-of-businesses,2020,2020,N09000010,"Newry, Mourne and Down",Number,8865
+BCOUNTS,number-of-businesses,2020,2020,N09000011,Ards and North Down,Number,4740
+BCOUNTS,number-of-businesses,2020,2020,N92000002,Northern Ireland,Number,76090
+BCOUNTS,number-of-businesses,2021,2021,N09000001,Antrim and Newtownabbey,Number,4360
+BCOUNTS,number-of-businesses,2021,2021,N09000002,"Armagh City, Banbridge and Craigavon",Number,8930
+BCOUNTS,number-of-businesses,2021,2021,N09000003,Belfast,Number,11300
+BCOUNTS,number-of-businesses,2021,2021,N09000004,Causeway Coast and Glens,Number,6085
+BCOUNTS,number-of-businesses,2021,2021,N09000005,Derry City and Strabane,Number,5410
+BCOUNTS,number-of-businesses,2021,2021,N09000006,Fermanagh and Omagh,Number,8285
+BCOUNTS,number-of-businesses,2021,2021,N09000007,Lisburn and Castlereagh,Number,5170
+BCOUNTS,number-of-businesses,2021,2021,N09000008,Mid and East Antrim,Number,5040
+BCOUNTS,number-of-businesses,2021,2021,N09000009,Mid Ulster,Number,9220
+BCOUNTS,number-of-businesses,2021,2021,N09000010,"Newry, Mourne and Down",Number,9045
+BCOUNTS,number-of-businesses,2021,2021,N09000011,Ards and North Down,Number,4790
+BCOUNTS,number-of-businesses,2021,2021,N92000002,Northern Ireland,Number,77640
+BCOUNTS,number-of-businesses,2022,2022,N09000001,Antrim and Newtownabbey,Number,4315
+BCOUNTS,number-of-businesses,2022,2022,N09000002,"Armagh City, Banbridge and Craigavon",Number,9255
+BCOUNTS,number-of-businesses,2022,2022,N09000003,Belfast,Number,11405
+BCOUNTS,number-of-businesses,2022,2022,N09000004,Causeway Coast and Glens,Number,6280
+BCOUNTS,number-of-businesses,2022,2022,N09000005,Derry City and Strabane,Number,5455
+BCOUNTS,number-of-businesses,2022,2022,N09000006,Fermanagh and Omagh,Number,8455
+BCOUNTS,number-of-businesses,2022,2022,N09000007,Lisburn and Castlereagh,Number,5185
+BCOUNTS,number-of-businesses,2022,2022,N09000008,Mid and East Antrim,Number,5055
+BCOUNTS,number-of-businesses,2022,2022,N09000009,Mid Ulster,Number,9430
+BCOUNTS,number-of-businesses,2022,2022,N09000010,"Newry, Mourne and Down",Number,9175
+BCOUNTS,number-of-businesses,2022,2022,N09000011,Ards and North Down,Number,4870
+BCOUNTS,number-of-businesses,2022,2022,N92000002,Northern Ireland,Number,78885

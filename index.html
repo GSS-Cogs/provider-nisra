@@ -1,22 +1,22 @@
 <!doctype html>
 <html>
-  <head>
-  </head>
-  <body>
-    <h3>CSV-Ws generated are as below. The latest commit id is d21fe801915ca6a65b037b447127bd490cc344e7.</h3>
+    <head>
+    </head>
+    <body>
+    <h3>CSV-Ws generated are as below. The latest commit id is 995587f5d30c4a100bab951e9a575d9aa064d006.</h3>
     <div id="files-container"></div>
     <script type="text/javascript">
-      var html_str = "<ul>";
-      var files = ",./out/ambulance-response-times-by-la/2021/ambulance-response-times-by-la/year.csv,./out/ambulance-response-times-by-la/2021/ambulance-response-times-by-la/validation-errors.json,./out/ambulance-response-times-by-la/2021/ambulance-response-times-by-la/year.table.json,./out/ambulance-response-times-by-la/2021/ambulance-response-times-by-la/year.csv-metadata.json_inspect_output.txt,./out/ambulance-response-times-by-la/2021/ambulance-response-times-by-la/ambulance-response-times-by-local-authority.csv-metadata.json_inspect_output.txt,./out/ambulance-response-times-by-la/2021/ambulance-response-times-by-la/ambulance-response-times-by-local-authority.csv-metadata.json,./out/ambulance-response-times-by-la/2021/ambulance-response-times-by-la/year.csv-metadata.json,./out/ambulance-response-times-by-la/2021/ambulance-response-times-by-la/ambulance-response-times-by-local-authority.csv".split(',');
-      files.shift()
-      files.sort()
-      files.forEach(function(file) {
+        var html_str = "<ul>";
+        var files = "".split('\n');
+        files.shift()
+        files.sort()
+        files.forEach(function(file) {
         file = file.replace("./","")
         link = "https://GSS-Cogs.github.io/provider-nisra/"+file
         html_str += "<li>"+"<a href='"+ link + "'>"+file+"</a></li>";
-      });
-      html_str += "</ul>";
-      document.getElementById("files-container").innerHTML = html_str;
+        });
+        html_str += "</ul>";
+        document.getElementById("files-container").innerHTML = html_str;
     </script>
-  </body>
+    </body>
 </html>
