@@ -22,8 +22,8 @@
             "cell_uri_template": "http://statistics.data.gov.uk/id/statistical-geography/{+lgd2014}",
             "from_existing": "http://purl.org/linked-data/sdmx/2009/dimension#refArea"
         },
-        "Local Government District 2014": false,
         "UNIT":false,
+        "Local Government District 2014": false,
         "VALUE": {
             "type": "observations",
             "data_type": "int",
