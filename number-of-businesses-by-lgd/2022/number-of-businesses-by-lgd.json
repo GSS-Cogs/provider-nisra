@@ -3,6 +3,7 @@
     "title": "Number of Businesses",
     "summary": "Number of Businesses",
     "description": "Note: Production includes Manufacturing and Mining",
+    "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
     "publisher": "https://www.gov.uk/government/organisations/northern-ireland-statistics-and-research-agency",
     "themes":"https://www.ons.gov.uk/businessindustryandtrade/business/activitysizeandlocation",
     "columns": {
@@ -28,7 +29,7 @@
             "data_type": "int",
             "unit": {
                 "label": "Number",
-                "from_existing": "http://qudt.org/vocab/unit/SEC"
+                "from_existing": "http://qudt.org/vocab/unit/NUM"
             }
         }
     }
