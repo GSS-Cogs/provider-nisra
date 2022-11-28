@@ -1,0 +1,361 @@
+STATISTIC CODE,Statistic,TLIST(A1),Year,COUNT_PARTNER,Trade Partner,RUSECTION,Industry Sector,UNIT,VALUE
+BESESCOUNT,Number of Businesses,2011,2011,EXTERN,External Seller,ALL,All industries,Count,11689
+BESESCOUNT,Number of Businesses,2011,2011,EXTERN,External Seller,A,"Agriculture, Forestry And Fishing",Count,117
+BESESCOUNT,Number of Businesses,2011,2011,EXTERN,External Seller,B,Mining And Quarrying,Count,32
+BESESCOUNT,Number of Businesses,2011,2011,EXTERN,External Seller,C,Manufacturing,Count,2239
+BESESCOUNT,Number of Businesses,2011,2011,EXTERN,External Seller,D,"Electricity, Gas, Steam And Air Conditioning Supply",Count,12
+BESESCOUNT,Number of Businesses,2011,2011,EXTERN,External Seller,E,"Water Supply; Sewerage, Waste Management And Remediation Activities",Count,101
+BESESCOUNT,Number of Businesses,2011,2011,EXTERN,External Seller,F,Construction,Count,1244
+BESESCOUNT,Number of Businesses,2011,2011,EXTERN,External Seller,G,Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles,Count,3943
+BESESCOUNT,Number of Businesses,2011,2011,EXTERN,External Seller,H,Transportation And Storage,Count,683
+BESESCOUNT,Number of Businesses,2011,2011,EXTERN,External Seller,I,Accommodation And Food Service Activities,Count,225
+BESESCOUNT,Number of Businesses,2011,2011,EXTERN,External Seller,J,Information And Communication,Count,579
+BESESCOUNT,Number of Businesses,2011,2011,EXTERN,External Seller,L,Real Estate Activities,Count,223
+BESESCOUNT,Number of Businesses,2011,2011,EXTERN,External Seller,M,"Professional, Scientific And Technical Activities",Count,1455
+BESESCOUNT,Number of Businesses,2011,2011,EXTERN,External Seller,N,Administrative And Support Service Activities,Count,374
+BESESCOUNT,Number of Businesses,2011,2011,EXTERN,External Seller,P,Education,Count,112
+BESESCOUNT,Number of Businesses,2011,2011,EXTERN,External Seller,Q,Human Health And Social Work Activities,Count,80
+BESESCOUNT,Number of Businesses,2011,2011,EXTERN,External Seller,R,"Arts, Entertainment And Recreation",Count,139
+BESESCOUNT,Number of Businesses,2011,2011,EXTERN,External Seller,S,Other Service Activities,Count,133
+BESESCOUNT,Number of Businesses,2011,2011,EXPORT,Exporter,ALL,All industries,Count,9170
+BESESCOUNT,Number of Businesses,2011,2011,EXPORT,Exporter,A,"Agriculture, Forestry And Fishing",Count,86
+BESESCOUNT,Number of Businesses,2011,2011,EXPORT,Exporter,B,Mining And Quarrying,Count,32
+BESESCOUNT,Number of Businesses,2011,2011,EXPORT,Exporter,C,Manufacturing,Count,2074
+BESESCOUNT,Number of Businesses,2011,2011,EXPORT,Exporter,D,"Electricity, Gas, Steam And Air Conditioning Supply",Count,9
+BESESCOUNT,Number of Businesses,2011,2011,EXPORT,Exporter,E,"Water Supply; Sewerage, Waste Management And Remediation Activities",Count,82
+BESESCOUNT,Number of Businesses,2011,2011,EXPORT,Exporter,F,Construction,Count,766
+BESESCOUNT,Number of Businesses,2011,2011,EXPORT,Exporter,G,Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles,Count,3295
+BESESCOUNT,Number of Businesses,2011,2011,EXPORT,Exporter,H,Transportation And Storage,Count,458
+BESESCOUNT,Number of Businesses,2011,2011,EXPORT,Exporter,I,Accommodation And Food Service Activities,Count,121
+BESESCOUNT,Number of Businesses,2011,2011,EXPORT,Exporter,J,Information And Communication,Count,486
+BESESCOUNT,Number of Businesses,2011,2011,EXPORT,Exporter,L,Real Estate Activities,Count,69
+BESESCOUNT,Number of Businesses,2011,2011,EXPORT,Exporter,M,"Professional, Scientific And Technical Activities",Count,1061
+BESESCOUNT,Number of Businesses,2011,2011,EXPORT,Exporter,N,Administrative And Support Service Activities,Count,301
+BESESCOUNT,Number of Businesses,2011,2011,EXPORT,Exporter,P,Education,Count,106
+BESESCOUNT,Number of Businesses,2011,2011,EXPORT,Exporter,Q,Human Health And Social Work Activities,Count,72
+BESESCOUNT,Number of Businesses,2011,2011,EXPORT,Exporter,R,"Arts, Entertainment And Recreation",Count,100
+BESESCOUNT,Number of Businesses,2011,2011,EXPORT,Exporter,S,Other Service Activities,Count,53
+BESESCOUNT,Number of Businesses,2012,2012,EXTERN,External Seller,ALL,All industries,Count,12320
+BESESCOUNT,Number of Businesses,2012,2012,EXTERN,External Seller,A,"Agriculture, Forestry And Fishing",Count,94
+BESESCOUNT,Number of Businesses,2012,2012,EXTERN,External Seller,B,Mining And Quarrying,Count,24
+BESESCOUNT,Number of Businesses,2012,2012,EXTERN,External Seller,C,Manufacturing,Count,2243
+BESESCOUNT,Number of Businesses,2012,2012,EXTERN,External Seller,D,"Electricity, Gas, Steam And Air Conditioning Supply",Count,21
+BESESCOUNT,Number of Businesses,2012,2012,EXTERN,External Seller,E,"Water Supply; Sewerage, Waste Management And Remediation Activities",Count,68
+BESESCOUNT,Number of Businesses,2012,2012,EXTERN,External Seller,F,Construction,Count,1338
+BESESCOUNT,Number of Businesses,2012,2012,EXTERN,External Seller,G,Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles,Count,4257
+BESESCOUNT,Number of Businesses,2012,2012,EXTERN,External Seller,H,Transportation And Storage,Count,731
+BESESCOUNT,Number of Businesses,2012,2012,EXTERN,External Seller,I,Accommodation And Food Service Activities,Count,80
+BESESCOUNT,Number of Businesses,2012,2012,EXTERN,External Seller,J,Information And Communication,Count,756
+BESESCOUNT,Number of Businesses,2012,2012,EXTERN,External Seller,L,Real Estate Activities,Count,234
+BESESCOUNT,Number of Businesses,2012,2012,EXTERN,External Seller,M,"Professional, Scientific And Technical Activities",Count,1665
+BESESCOUNT,Number of Businesses,2012,2012,EXTERN,External Seller,N,Administrative And Support Service Activities,Count,208
+BESESCOUNT,Number of Businesses,2012,2012,EXTERN,External Seller,P,Education,Count,311
+BESESCOUNT,Number of Businesses,2012,2012,EXTERN,External Seller,Q,Human Health And Social Work Activities,Count,45
+BESESCOUNT,Number of Businesses,2012,2012,EXTERN,External Seller,R,"Arts, Entertainment And Recreation",Count,149
+BESESCOUNT,Number of Businesses,2012,2012,EXTERN,External Seller,S,Other Service Activities,Count,95
+BESESCOUNT,Number of Businesses,2012,2012,EXPORT,Exporter,ALL,All industries,Count,9917
+BESESCOUNT,Number of Businesses,2012,2012,EXPORT,Exporter,A,"Agriculture, Forestry And Fishing",Count,70
+BESESCOUNT,Number of Businesses,2012,2012,EXPORT,Exporter,B,Mining And Quarrying,Count,24
+BESESCOUNT,Number of Businesses,2012,2012,EXPORT,Exporter,C,Manufacturing,Count,2035
+BESESCOUNT,Number of Businesses,2012,2012,EXPORT,Exporter,D,"Electricity, Gas, Steam And Air Conditioning Supply",Count,12
+BESESCOUNT,Number of Businesses,2012,2012,EXPORT,Exporter,E,"Water Supply; Sewerage, Waste Management And Remediation Activities",Count,63
+BESESCOUNT,Number of Businesses,2012,2012,EXPORT,Exporter,F,Construction,Count,959
+BESESCOUNT,Number of Businesses,2012,2012,EXPORT,Exporter,G,Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles,Count,3767
+BESESCOUNT,Number of Businesses,2012,2012,EXPORT,Exporter,H,Transportation And Storage,Count,446
+BESESCOUNT,Number of Businesses,2012,2012,EXPORT,Exporter,I,Accommodation And Food Service Activities,Count,53
+BESESCOUNT,Number of Businesses,2012,2012,EXPORT,Exporter,J,Information And Communication,Count,590
+BESESCOUNT,Number of Businesses,2012,2012,EXPORT,Exporter,L,Real Estate Activities,Count,61
+BESESCOUNT,Number of Businesses,2012,2012,EXPORT,Exporter,M,"Professional, Scientific And Technical Activities",Count,1273
+BESESCOUNT,Number of Businesses,2012,2012,EXPORT,Exporter,N,Administrative And Support Service Activities,Count,107
+BESESCOUNT,Number of Businesses,2012,2012,EXPORT,Exporter,P,Education,Count,222
+BESESCOUNT,Number of Businesses,2012,2012,EXPORT,Exporter,Q,Human Health And Social Work Activities,Count,44
+BESESCOUNT,Number of Businesses,2012,2012,EXPORT,Exporter,R,"Arts, Entertainment And Recreation",Count,130
+BESESCOUNT,Number of Businesses,2012,2012,EXPORT,Exporter,S,Other Service Activities,Count,60
+BESESCOUNT,Number of Businesses,2013,2013,EXTERN,External Seller,ALL,All industries,Count,11798
+BESESCOUNT,Number of Businesses,2013,2013,EXTERN,External Seller,A,"Agriculture, Forestry And Fishing",Count,86
+BESESCOUNT,Number of Businesses,2013,2013,EXTERN,External Seller,B,Mining And Quarrying,Count,39
+BESESCOUNT,Number of Businesses,2013,2013,EXTERN,External Seller,C,Manufacturing,Count,2294
+BESESCOUNT,Number of Businesses,2013,2013,EXTERN,External Seller,D,"Electricity, Gas, Steam And Air Conditioning Supply",Count,23
+BESESCOUNT,Number of Businesses,2013,2013,EXTERN,External Seller,E,"Water Supply; Sewerage, Waste Management And Remediation Activities",Count,60
+BESESCOUNT,Number of Businesses,2013,2013,EXTERN,External Seller,F,Construction,Count,1282
+BESESCOUNT,Number of Businesses,2013,2013,EXTERN,External Seller,G,Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles,Count,3486
+BESESCOUNT,Number of Businesses,2013,2013,EXTERN,External Seller,H,Transportation And Storage,Count,684
+BESESCOUNT,Number of Businesses,2013,2013,EXTERN,External Seller,I,Accommodation And Food Service Activities,Count,65
+BESESCOUNT,Number of Businesses,2013,2013,EXTERN,External Seller,J,Information And Communication,Count,899
+BESESCOUNT,Number of Businesses,2013,2013,EXTERN,External Seller,L,Real Estate Activities,Count,292
+BESESCOUNT,Number of Businesses,2013,2013,EXTERN,External Seller,M,"Professional, Scientific And Technical Activities",Count,1708
+BESESCOUNT,Number of Businesses,2013,2013,EXTERN,External Seller,N,Administrative And Support Service Activities,Count,268
+BESESCOUNT,Number of Businesses,2013,2013,EXTERN,External Seller,P,Education,Count,270
+BESESCOUNT,Number of Businesses,2013,2013,EXTERN,External Seller,Q,Human Health And Social Work Activities,Count,62
+BESESCOUNT,Number of Businesses,2013,2013,EXTERN,External Seller,R,"Arts, Entertainment And Recreation",Count,161
+BESESCOUNT,Number of Businesses,2013,2013,EXTERN,External Seller,S,Other Service Activities,Count,119
+BESESCOUNT,Number of Businesses,2013,2013,EXPORT,Exporter,ALL,All industries,Count,9457
+BESESCOUNT,Number of Businesses,2013,2013,EXPORT,Exporter,A,"Agriculture, Forestry And Fishing",Count,51
+BESESCOUNT,Number of Businesses,2013,2013,EXPORT,Exporter,B,Mining And Quarrying,Count,39
+BESESCOUNT,Number of Businesses,2013,2013,EXPORT,Exporter,C,Manufacturing,Count,2005
+BESESCOUNT,Number of Businesses,2013,2013,EXPORT,Exporter,D,"Electricity, Gas, Steam And Air Conditioning Supply",Count,18
+BESESCOUNT,Number of Businesses,2013,2013,EXPORT,Exporter,E,"Water Supply; Sewerage, Waste Management And Remediation Activities",Count,45
+BESESCOUNT,Number of Businesses,2013,2013,EXPORT,Exporter,F,Construction,Count,796
+BESESCOUNT,Number of Businesses,2013,2013,EXPORT,Exporter,G,Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles,Count,3145
+BESESCOUNT,Number of Businesses,2013,2013,EXPORT,Exporter,H,Transportation And Storage,Count,443
+BESESCOUNT,Number of Businesses,2013,2013,EXPORT,Exporter,I,Accommodation And Food Service Activities,Count,20
+BESESCOUNT,Number of Businesses,2013,2013,EXPORT,Exporter,J,Information And Communication,Count,874
+BESESCOUNT,Number of Businesses,2013,2013,EXPORT,Exporter,L,Real Estate Activities,Count,50
+BESESCOUNT,Number of Businesses,2013,2013,EXPORT,Exporter,M,"Professional, Scientific And Technical Activities",Count,1297
+BESESCOUNT,Number of Businesses,2013,2013,EXPORT,Exporter,N,Administrative And Support Service Activities,Count,161
+BESESCOUNT,Number of Businesses,2013,2013,EXPORT,Exporter,P,Education,Count,201
+BESESCOUNT,Number of Businesses,2013,2013,EXPORT,Exporter,Q,Human Health And Social Work Activities,Count,58
+BESESCOUNT,Number of Businesses,2013,2013,EXPORT,Exporter,R,"Arts, Entertainment And Recreation",Count,159
+BESESCOUNT,Number of Businesses,2013,2013,EXPORT,Exporter,S,Other Service Activities,Count,96
+BESESCOUNT,Number of Businesses,2014,2014,EXTERN,External Seller,ALL,All industries,Count,11534
+BESESCOUNT,Number of Businesses,2014,2014,EXTERN,External Seller,A,"Agriculture, Forestry And Fishing",Count,76
+BESESCOUNT,Number of Businesses,2014,2014,EXTERN,External Seller,B,Mining And Quarrying,Count,54
+BESESCOUNT,Number of Businesses,2014,2014,EXTERN,External Seller,C,Manufacturing,Count,2249
+BESESCOUNT,Number of Businesses,2014,2014,EXTERN,External Seller,D,"Electricity, Gas, Steam And Air Conditioning Supply",Count,23
+BESESCOUNT,Number of Businesses,2014,2014,EXTERN,External Seller,E,"Water Supply; Sewerage, Waste Management And Remediation Activities",Count,59
+BESESCOUNT,Number of Businesses,2014,2014,EXTERN,External Seller,F,Construction,Count,1405
+BESESCOUNT,Number of Businesses,2014,2014,EXTERN,External Seller,G,Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles,Count,3358
+BESESCOUNT,Number of Businesses,2014,2014,EXTERN,External Seller,H,Transportation And Storage,Count,522
+BESESCOUNT,Number of Businesses,2014,2014,EXTERN,External Seller,I,Accommodation And Food Service Activities,Count,49
+BESESCOUNT,Number of Businesses,2014,2014,EXTERN,External Seller,J,Information And Communication,Count,893
+BESESCOUNT,Number of Businesses,2014,2014,EXTERN,External Seller,L,Real Estate Activities,Count,280
+BESESCOUNT,Number of Businesses,2014,2014,EXTERN,External Seller,M,"Professional, Scientific And Technical Activities",Count,1797
+BESESCOUNT,Number of Businesses,2014,2014,EXTERN,External Seller,N,Administrative And Support Service Activities,Count,223
+BESESCOUNT,Number of Businesses,2014,2014,EXTERN,External Seller,P,Education,Count,167
+BESESCOUNT,Number of Businesses,2014,2014,EXTERN,External Seller,Q,Human Health And Social Work Activities,Count,71
+BESESCOUNT,Number of Businesses,2014,2014,EXTERN,External Seller,R,"Arts, Entertainment And Recreation",Count,193
+BESESCOUNT,Number of Businesses,2014,2014,EXTERN,External Seller,S,Other Service Activities,Count,115
+BESESCOUNT,Number of Businesses,2014,2014,EXPORT,Exporter,ALL,All industries,Count,8749
+BESESCOUNT,Number of Businesses,2014,2014,EXPORT,Exporter,A,"Agriculture, Forestry And Fishing",Count,61
+BESESCOUNT,Number of Businesses,2014,2014,EXPORT,Exporter,B,Mining And Quarrying,Count,54
+BESESCOUNT,Number of Businesses,2014,2014,EXPORT,Exporter,C,Manufacturing,Count,2015
+BESESCOUNT,Number of Businesses,2014,2014,EXPORT,Exporter,D,"Electricity, Gas, Steam And Air Conditioning Supply",Count,12
+BESESCOUNT,Number of Businesses,2014,2014,EXPORT,Exporter,E,"Water Supply; Sewerage, Waste Management And Remediation Activities",Count,48
+BESESCOUNT,Number of Businesses,2014,2014,EXPORT,Exporter,F,Construction,Count,941
+BESESCOUNT,Number of Businesses,2014,2014,EXPORT,Exporter,G,Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles,Count,2880
+BESESCOUNT,Number of Businesses,2014,2014,EXPORT,Exporter,H,Transportation And Storage,Count,446
+BESESCOUNT,Number of Businesses,2014,2014,EXPORT,Exporter,I,Accommodation And Food Service Activities,Count,28
+BESESCOUNT,Number of Businesses,2014,2014,EXPORT,Exporter,J,Information And Communication,Count,511
+BESESCOUNT,Number of Businesses,2014,2014,EXPORT,Exporter,L,Real Estate Activities,Count,60
+BESESCOUNT,Number of Businesses,2014,2014,EXPORT,Exporter,M,"Professional, Scientific And Technical Activities",Count,1185
+BESESCOUNT,Number of Businesses,2014,2014,EXPORT,Exporter,N,Administrative And Support Service Activities,Count,127
+BESESCOUNT,Number of Businesses,2014,2014,EXPORT,Exporter,P,Education,Count,102
+BESESCOUNT,Number of Businesses,2014,2014,EXPORT,Exporter,Q,Human Health And Social Work Activities,Count,69
+BESESCOUNT,Number of Businesses,2014,2014,EXPORT,Exporter,R,"Arts, Entertainment And Recreation",Count,132
+BESESCOUNT,Number of Businesses,2014,2014,EXPORT,Exporter,S,Other Service Activities,Count,78
+BESESCOUNT,Number of Businesses,2015,2015,EXTERN,External Seller,ALL,All industries,Count,11578.95049
+BESESCOUNT,Number of Businesses,2015,2015,EXTERN,External Seller,A,"Agriculture, Forestry And Fishing",Count,125.8
+BESESCOUNT,Number of Businesses,2015,2015,EXTERN,External Seller,B,Mining And Quarrying,Count,72.0952381
+BESESCOUNT,Number of Businesses,2015,2015,EXTERN,External Seller,C,Manufacturing,Count,2281.91122
+BESESCOUNT,Number of Businesses,2015,2015,EXTERN,External Seller,D,"Electricity, Gas, Steam And Air Conditioning Supply",Count,34.42857143
+BESESCOUNT,Number of Businesses,2015,2015,EXTERN,External Seller,E,"Water Supply; Sewerage, Waste Management And Remediation Activities",Count,64.14285714
+BESESCOUNT,Number of Businesses,2015,2015,EXTERN,External Seller,F,Construction,Count,1351.673304
+BESESCOUNT,Number of Businesses,2015,2015,EXTERN,External Seller,G,Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles,Count,3078.504776
+BESESCOUNT,Number of Businesses,2015,2015,EXTERN,External Seller,H,Transportation And Storage,Count,537.9857133
+BESESCOUNT,Number of Businesses,2015,2015,EXTERN,External Seller,I,Accommodation And Food Service Activities,Count,29.81111111
+BESESCOUNT,Number of Businesses,2015,2015,EXTERN,External Seller,J,Information And Communication,Count,879.119697
+BESESCOUNT,Number of Businesses,2015,2015,EXTERN,External Seller,L,Real Estate Activities,Count,230.9281768
+BESESCOUNT,Number of Businesses,2015,2015,EXTERN,External Seller,M,"Professional, Scientific And Technical Activities",Count,1887.512459
+BESESCOUNT,Number of Businesses,2015,2015,EXTERN,External Seller,N,Administrative And Support Service Activities,Count,409.6474073
+BESESCOUNT,Number of Businesses,2015,2015,EXTERN,External Seller,P,Education,Count,270.6417178
+BESESCOUNT,Number of Businesses,2015,2015,EXTERN,External Seller,Q,Human Health And Social Work Activities,Count,45.47579878
+BESESCOUNT,Number of Businesses,2015,2015,EXTERN,External Seller,R,"Arts, Entertainment And Recreation",Count,135.1363636
+BESESCOUNT,Number of Businesses,2015,2015,EXTERN,External Seller,S,Other Service Activities,Count,144.1360759
+BESESCOUNT,Number of Businesses,2015,2015,EXPORT,Exporter,ALL,All industries,Count,8452.129235
+BESESCOUNT,Number of Businesses,2015,2015,EXPORT,Exporter,A,"Agriculture, Forestry And Fishing",Count,99.24
+BESESCOUNT,Number of Businesses,2015,2015,EXPORT,Exporter,B,Mining And Quarrying,Count,71.0952381
+BESESCOUNT,Number of Businesses,2015,2015,EXPORT,Exporter,C,Manufacturing,Count,2030.857479
+BESESCOUNT,Number of Businesses,2015,2015,EXPORT,Exporter,D,"Electricity, Gas, Steam And Air Conditioning Supply",Count,16.28571429
+BESESCOUNT,Number of Businesses,2015,2015,EXPORT,Exporter,E,"Water Supply; Sewerage, Waste Management And Remediation Activities",Count,54.28571429
+BESESCOUNT,Number of Businesses,2015,2015,EXPORT,Exporter,F,Construction,Count,720.6120055
+BESESCOUNT,Number of Businesses,2015,2015,EXPORT,Exporter,G,Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles,Count,2556.390538
+BESESCOUNT,Number of Businesses,2015,2015,EXPORT,Exporter,H,Transportation And Storage,Count,343.5799571
+BESESCOUNT,Number of Businesses,2015,2015,EXPORT,Exporter,I,Accommodation And Food Service Activities,Count,5.111111111
+BESESCOUNT,Number of Businesses,2015,2015,EXPORT,Exporter,J,Information And Communication,Count,682.0878788
+BESESCOUNT,Number of Businesses,2015,2015,EXPORT,Exporter,L,Real Estate Activities,Count,48.92403315
+BESESCOUNT,Number of Businesses,2015,2015,EXPORT,Exporter,M,"Professional, Scientific And Technical Activities",Count,1130.849012
+BESESCOUNT,Number of Businesses,2015,2015,EXPORT,Exporter,N,Administrative And Support Service Activities,Count,287.75635
+BESESCOUNT,Number of Businesses,2015,2015,EXPORT,Exporter,P,Education,Count,140.2208589
+BESESCOUNT,Number of Businesses,2015,2015,EXPORT,Exporter,Q,Human Health And Social Work Activities,Count,41.54698232
+BESESCOUNT,Number of Businesses,2015,2015,EXPORT,Exporter,R,"Arts, Entertainment And Recreation",Count,135.1363636
+BESESCOUNT,Number of Businesses,2015,2015,EXPORT,Exporter,S,Other Service Activities,Count,88.15
+BESESCOUNT,Number of Businesses,2016,2016,EXTERN,External Seller,ALL,All industries,Count,11734.2503
+BESESCOUNT,Number of Businesses,2016,2016,EXTERN,External Seller,A,"Agriculture, Forestry And Fishing",Count,74.69306931
+BESESCOUNT,Number of Businesses,2016,2016,EXTERN,External Seller,B,Mining And Quarrying,Count,57.97857143
+BESESCOUNT,Number of Businesses,2016,2016,EXTERN,External Seller,C,Manufacturing,Count,2387.451953
+BESESCOUNT,Number of Businesses,2016,2016,EXTERN,External Seller,D,"Electricity, Gas, Steam And Air Conditioning Supply",Count,59.25
+BESESCOUNT,Number of Businesses,2016,2016,EXTERN,External Seller,E,"Water Supply; Sewerage, Waste Management And Remediation Activities",Count,78.91666667
+BESESCOUNT,Number of Businesses,2016,2016,EXTERN,External Seller,F,Construction,Count,1501.31269
+BESESCOUNT,Number of Businesses,2016,2016,EXTERN,External Seller,G,Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles,Count,2949.481055
+BESESCOUNT,Number of Businesses,2016,2016,EXTERN,External Seller,H,Transportation And Storage,Count,648.3171153
+BESESCOUNT,Number of Businesses,2016,2016,EXTERN,External Seller,I,Accommodation And Food Service Activities,Count,49.77696078
+BESESCOUNT,Number of Businesses,2016,2016,EXTERN,External Seller,J,Information And Communication,Count,894.6732426
+BESESCOUNT,Number of Businesses,2016,2016,EXTERN,External Seller,L,Real Estate Activities,Count,252.3989362
+BESESCOUNT,Number of Businesses,2016,2016,EXTERN,External Seller,M,"Professional, Scientific And Technical Activities",Count,1922.514458
+BESESCOUNT,Number of Businesses,2016,2016,EXTERN,External Seller,N,Administrative And Support Service Activities,Count,252.0111444
+BESESCOUNT,Number of Businesses,2016,2016,EXTERN,External Seller,P,Education,Count,183.1388889
+BESESCOUNT,Number of Businesses,2016,2016,EXTERN,External Seller,Q,Human Health And Social Work Activities,Count,95.92172204
+BESESCOUNT,Number of Businesses,2016,2016,EXTERN,External Seller,R,"Arts, Entertainment And Recreation",Count,184.4003497
+BESESCOUNT,Number of Businesses,2016,2016,EXTERN,External Seller,S,Other Service Activities,Count,142.013473
+BESESCOUNT,Number of Businesses,2016,2016,EXPORT,Exporter,ALL,All industries,Count,8501.555447
+BESESCOUNT,Number of Businesses,2016,2016,EXPORT,Exporter,A,"Agriculture, Forestry And Fishing",Count,59.93069307
+BESESCOUNT,Number of Businesses,2016,2016,EXPORT,Exporter,B,Mining And Quarrying,Count,56.97857143
+BESESCOUNT,Number of Businesses,2016,2016,EXPORT,Exporter,C,Manufacturing,Count,2145.879479
+BESESCOUNT,Number of Businesses,2016,2016,EXPORT,Exporter,D,"Electricity, Gas, Steam And Air Conditioning Supply",Count,57.25
+BESESCOUNT,Number of Businesses,2016,2016,EXPORT,Exporter,E,"Water Supply; Sewerage, Waste Management And Remediation Activities",Count,54.45833333
+BESESCOUNT,Number of Businesses,2016,2016,EXPORT,Exporter,F,Construction,Count,842.0564492
+BESESCOUNT,Number of Businesses,2016,2016,EXPORT,Exporter,G,Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles,Count,2399.773845
+BESESCOUNT,Number of Businesses,2016,2016,EXPORT,Exporter,H,Transportation And Storage,Count,494.4116632
+BESESCOUNT,Number of Businesses,2016,2016,EXPORT,Exporter,I,Accommodation And Food Service Activities,Count,7.492647059
+BESESCOUNT,Number of Businesses,2016,2016,EXPORT,Exporter,J,Information And Communication,Count,681.4466553
+BESESCOUNT,Number of Businesses,2016,2016,EXPORT,Exporter,L,Real Estate Activities,Count,27.71808511
+BESESCOUNT,Number of Businesses,2016,2016,EXPORT,Exporter,M,"Professional, Scientific And Technical Activities",Count,1127.970575
+BESESCOUNT,Number of Businesses,2016,2016,EXPORT,Exporter,N,Administrative And Support Service Activities,Count,162.8029915
+BESESCOUNT,Number of Businesses,2016,2016,EXPORT,Exporter,P,Education,Count,107.2380952
+BESESCOUNT,Number of Businesses,2016,2016,EXPORT,Exporter,Q,Human Health And Social Work Activities,Count,55.02172204
+BESESCOUNT,Number of Businesses,2016,2016,EXPORT,Exporter,R,"Arts, Entertainment And Recreation",Count,131.7604895
+BESESCOUNT,Number of Businesses,2016,2016,EXPORT,Exporter,S,Other Service Activities,Count,89.36515152
+BESESCOUNT,Number of Businesses,2017,2017,EXTERN,External Seller,ALL,All industries,Count,13790.75853
+BESESCOUNT,Number of Businesses,2017,2017,EXTERN,External Seller,A,"Agriculture, Forestry And Fishing",Count,125.673913
+BESESCOUNT,Number of Businesses,2017,2017,EXTERN,External Seller,B,Mining And Quarrying,Count,50.01666667
+BESESCOUNT,Number of Businesses,2017,2017,EXTERN,External Seller,C,Manufacturing,Count,2493.642797
+BESESCOUNT,Number of Businesses,2017,2017,EXTERN,External Seller,D,"Electricity, Gas, Steam And Air Conditioning Supply",Count,99
+BESESCOUNT,Number of Businesses,2017,2017,EXTERN,External Seller,E,"Water Supply; Sewerage, Waste Management And Remediation Activities",Count,62.80952381
+BESESCOUNT,Number of Businesses,2017,2017,EXTERN,External Seller,F,Construction,Count,1727.446845
+BESESCOUNT,Number of Businesses,2017,2017,EXTERN,External Seller,G,Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles,Count,3682.391762
+BESESCOUNT,Number of Businesses,2017,2017,EXTERN,External Seller,H,Transportation And Storage,Count,814.0376603
+BESESCOUNT,Number of Businesses,2017,2017,EXTERN,External Seller,I,Accommodation And Food Service Activities,Count,167.0923441
+BESESCOUNT,Number of Businesses,2017,2017,EXTERN,External Seller,J,Information And Communication,Count,1089.359219
+BESESCOUNT,Number of Businesses,2017,2017,EXTERN,External Seller,L,Real Estate Activities,Count,255.8070776
+BESESCOUNT,Number of Businesses,2017,2017,EXTERN,External Seller,M,"Professional, Scientific And Technical Activities",Count,2279.350735
+BESESCOUNT,Number of Businesses,2017,2017,EXTERN,External Seller,N,Administrative And Support Service Activities,Count,374.2188536
+BESESCOUNT,Number of Businesses,2017,2017,EXTERN,External Seller,P,Education,Count,199.9811912
+BESESCOUNT,Number of Businesses,2017,2017,EXTERN,External Seller,Q,Human Health And Social Work Activities,Count,57.47757937
+BESESCOUNT,Number of Businesses,2017,2017,EXTERN,External Seller,R,"Arts, Entertainment And Recreation",Count,213.6904762
+BESESCOUNT,Number of Businesses,2017,2017,EXTERN,External Seller,S,Other Service Activities,Count,98.76188769
+BESESCOUNT,Number of Businesses,2017,2017,EXPORT,Exporter,ALL,All industries,Count,10037.0222
+BESESCOUNT,Number of Businesses,2017,2017,EXPORT,Exporter,A,"Agriculture, Forestry And Fishing",Count,79.10869565
+BESESCOUNT,Number of Businesses,2017,2017,EXPORT,Exporter,B,Mining And Quarrying,Count,42.43333333
+BESESCOUNT,Number of Businesses,2017,2017,EXPORT,Exporter,C,Manufacturing,Count,2205.475406
+BESESCOUNT,Number of Businesses,2017,2017,EXPORT,Exporter,D,"Electricity, Gas, Steam And Air Conditioning Supply",Count,36.47619048
+BESESCOUNT,Number of Businesses,2017,2017,EXPORT,Exporter,E,"Water Supply; Sewerage, Waste Management And Remediation Activities",Count,60.80952381
+BESESCOUNT,Number of Businesses,2017,2017,EXPORT,Exporter,F,Construction,Count,1107.129558
+BESESCOUNT,Number of Businesses,2017,2017,EXPORT,Exporter,G,Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles,Count,2792.777075
+BESESCOUNT,Number of Businesses,2017,2017,EXPORT,Exporter,H,Transportation And Storage,Count,646.1065705
+BESESCOUNT,Number of Businesses,2017,2017,EXPORT,Exporter,I,Accommodation And Food Service Activities,Count,9.916666667
+BESESCOUNT,Number of Businesses,2017,2017,EXPORT,Exporter,J,Information And Communication,Count,832.621861
+BESESCOUNT,Number of Businesses,2017,2017,EXPORT,Exporter,L,Real Estate Activities,Count,18.41552511
+BESESCOUNT,Number of Businesses,2017,2017,EXPORT,Exporter,M,"Professional, Scientific And Technical Activities",Count,1569.951487
+BESESCOUNT,Number of Businesses,2017,2017,EXPORT,Exporter,N,Administrative And Support Service Activities,Count,236.5604419
+BESESCOUNT,Number of Businesses,2017,2017,EXPORT,Exporter,P,Education,Count,122.3432602
+BESESCOUNT,Number of Businesses,2017,2017,EXPORT,Exporter,Q,Human Health And Social Work Activities,Count,51.36646825
+BESESCOUNT,Number of Businesses,2017,2017,EXPORT,Exporter,R,"Arts, Entertainment And Recreation",Count,143.968254
+BESESCOUNT,Number of Businesses,2017,2017,EXPORT,Exporter,S,Other Service Activities,Count,81.56188769
+BESESCOUNT,Number of Businesses,2018,2018,EXTERN,External Seller,ALL,All industries,Count,14230.54942
+BESESCOUNT,Number of Businesses,2018,2018,EXTERN,External Seller,A,"Agriculture, Forestry And Fishing",Count,148.6
+BESESCOUNT,Number of Businesses,2018,2018,EXTERN,External Seller,B,Mining And Quarrying,Count,57.11111111
+BESESCOUNT,Number of Businesses,2018,2018,EXTERN,External Seller,C,Manufacturing,Count,3205.798347
+BESESCOUNT,Number of Businesses,2018,2018,EXTERN,External Seller,D,"Electricity, Gas, Steam And Air Conditioning Supply",Count,7
+BESESCOUNT,Number of Businesses,2018,2018,EXTERN,External Seller,E,"Water Supply; Sewerage, Waste Management And Remediation Activities",Count,167.7209302
+BESESCOUNT,Number of Businesses,2018,2018,EXTERN,External Seller,F,Construction,Count,2111.289419
+BESESCOUNT,Number of Businesses,2018,2018,EXTERN,External Seller,G,Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles,Count,2683.354451
+BESESCOUNT,Number of Businesses,2018,2018,EXTERN,External Seller,H,Transportation And Storage,Count,687.0635294
+BESESCOUNT,Number of Businesses,2018,2018,EXTERN,External Seller,I,Accommodation And Food Service Activities,Count,11.18
+BESESCOUNT,Number of Businesses,2018,2018,EXTERN,External Seller,J,Information And Communication,Count,1175.265499
+BESESCOUNT,Number of Businesses,2018,2018,EXTERN,External Seller,L,Real Estate Activities,Count,257.1111111
+BESESCOUNT,Number of Businesses,2018,2018,EXTERN,External Seller,M,"Professional, Scientific And Technical Activities",Count,2517.505051
+BESESCOUNT,Number of Businesses,2018,2018,EXTERN,External Seller,N,Administrative And Support Service Activities,Count,466.2939876
+BESESCOUNT,Number of Businesses,2018,2018,EXTERN,External Seller,P,Education,Count,207.2413793
+BESESCOUNT,Number of Businesses,2018,2018,EXTERN,External Seller,Q,Human Health And Social Work Activities,Count,199.8027027
+BESESCOUNT,Number of Businesses,2018,2018,EXTERN,External Seller,R,"Arts, Entertainment And Recreation",Count,161.4285714
+BESESCOUNT,Number of Businesses,2018,2018,EXTERN,External Seller,S,Other Service Activities,Count,166.7833333
+BESESCOUNT,Number of Businesses,2018,2018,EXPORT,Exporter,ALL,All industries,Count,10850.48227
+BESESCOUNT,Number of Businesses,2018,2018,EXPORT,Exporter,A,"Agriculture, Forestry And Fishing",Count,89.29411765
+BESESCOUNT,Number of Businesses,2018,2018,EXPORT,Exporter,B,Mining And Quarrying,Count,50.61111111
+BESESCOUNT,Number of Businesses,2018,2018,EXPORT,Exporter,C,Manufacturing,Count,2968.24924
+BESESCOUNT,Number of Businesses,2018,2018,EXPORT,Exporter,D,"Electricity, Gas, Steam And Air Conditioning Supply",Count,5
+BESESCOUNT,Number of Businesses,2018,2018,EXPORT,Exporter,E,"Water Supply; Sewerage, Waste Management And Remediation Activities",Count,73.90697674
+BESESCOUNT,Number of Businesses,2018,2018,EXPORT,Exporter,F,Construction,Count,1339.695521
+BESESCOUNT,Number of Businesses,2018,2018,EXPORT,Exporter,G,Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles,Count,2057.066922
+BESESCOUNT,Number of Businesses,2018,2018,EXPORT,Exporter,H,Transportation And Storage,Count,578.5838235
+BESESCOUNT,Number of Businesses,2018,2018,EXPORT,Exporter,I,Accommodation And Food Service Activities,Count,5.02
+BESESCOUNT,Number of Businesses,2018,2018,EXPORT,Exporter,J,Information And Communication,Count,889.9052111
+BESESCOUNT,Number of Businesses,2018,2018,EXPORT,Exporter,L,Real Estate Activities,Count,36.83006536
+BESESCOUNT,Number of Businesses,2018,2018,EXPORT,Exporter,M,"Professional, Scientific And Technical Activities",Count,1860.438672
+BESESCOUNT,Number of Businesses,2018,2018,EXPORT,Exporter,N,Administrative And Support Service Activities,Count,397.6439876
+BESESCOUNT,Number of Businesses,2018,2018,EXPORT,Exporter,P,Education,Count,203.2413793
+BESESCOUNT,Number of Businesses,2018,2018,EXPORT,Exporter,Q,Human Health And Social Work Activities,Count,39.1
+BESESCOUNT,Number of Businesses,2018,2018,EXPORT,Exporter,R,"Arts, Entertainment And Recreation",Count,142.9285714
+BESESCOUNT,Number of Businesses,2018,2018,EXPORT,Exporter,S,Other Service Activities,Count,112.9666667
+BESESCOUNT,Number of Businesses,2019,2019,EXTERN,External Seller,ALL,All industries,Count,15143.18516
+BESESCOUNT,Number of Businesses,2019,2019,EXTERN,External Seller,A,"Agriculture, Forestry And Fishing",Count,102.6296296
+BESESCOUNT,Number of Businesses,2019,2019,EXTERN,External Seller,B,Mining And Quarrying,Count,48.13333333
+BESESCOUNT,Number of Businesses,2019,2019,EXTERN,External Seller,C,Manufacturing,Count,3074.051622
+BESESCOUNT,Number of Businesses,2019,2019,EXTERN,External Seller,D,"Electricity, Gas, Steam And Air Conditioning Supply",Count,21.64705882
+BESESCOUNT,Number of Businesses,2019,2019,EXTERN,External Seller,E,"Water Supply; Sewerage, Waste Management And Remediation Activities",Count,206.894958
+BESESCOUNT,Number of Businesses,2019,2019,EXTERN,External Seller,F,Construction,Count,2320.46453
+BESESCOUNT,Number of Businesses,2019,2019,EXTERN,External Seller,G,Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles,Count,3217.158258
+BESESCOUNT,Number of Businesses,2019,2019,EXTERN,External Seller,H,Transportation And Storage,Count,893.0176471
+BESESCOUNT,Number of Businesses,2019,2019,EXTERN,External Seller,I,Accommodation And Food Service Activities,Count,5.708333333
+BESESCOUNT,Number of Businesses,2019,2019,EXTERN,External Seller,J,Information And Communication,Count,1205.95
+BESESCOUNT,Number of Businesses,2019,2019,EXTERN,External Seller,L,Real Estate Activities,Count,378.0915493
+BESESCOUNT,Number of Businesses,2019,2019,EXTERN,External Seller,M,"Professional, Scientific And Technical Activities",Count,2293.201703
+BESESCOUNT,Number of Businesses,2019,2019,EXTERN,External Seller,N,Administrative And Support Service Activities,Count,544.7401
+BESESCOUNT,Number of Businesses,2019,2019,EXTERN,External Seller,P,Education,Count,173.6385595
+BESESCOUNT,Number of Businesses,2019,2019,EXTERN,External Seller,Q,Human Health And Social Work Activities,Count,165.0189791
+BESESCOUNT,Number of Businesses,2019,2019,EXTERN,External Seller,R,"Arts, Entertainment And Recreation",Count,253.769697
+BESESCOUNT,Number of Businesses,2019,2019,EXTERN,External Seller,S,Other Service Activities,Count,239.0691968
+BESESCOUNT,Number of Businesses,2019,2019,EXPORT,Exporter,ALL,All industries,Count,11969.71103
+BESESCOUNT,Number of Businesses,2019,2019,EXPORT,Exporter,A,"Agriculture, Forestry And Fishing",Count,78.40740741
+BESESCOUNT,Number of Businesses,2019,2019,EXPORT,Exporter,B,Mining And Quarrying,Count,45.13333333
+BESESCOUNT,Number of Businesses,2019,2019,EXPORT,Exporter,C,Manufacturing,Count,2785.452978
+BESESCOUNT,Number of Businesses,2019,2019,EXPORT,Exporter,D,"Electricity, Gas, Steam And Air Conditioning Supply",Count,
+BESESCOUNT,Number of Businesses,2019,2019,EXPORT,Exporter,E,"Water Supply; Sewerage, Waste Management And Remediation Activities",Count,143.7633053
+BESESCOUNT,Number of Businesses,2019,2019,EXPORT,Exporter,F,Construction,Count,1670.541943
+BESESCOUNT,Number of Businesses,2019,2019,EXPORT,Exporter,G,Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles,Count,2864.196103
+BESESCOUNT,Number of Businesses,2019,2019,EXPORT,Exporter,H,Transportation And Storage,Count,578.8957983
+BESESCOUNT,Number of Businesses,2019,2019,EXPORT,Exporter,I,Accommodation And Food Service Activities,Count,
+BESESCOUNT,Number of Businesses,2019,2019,EXPORT,Exporter,J,Information And Communication,Count,1019.495513
+BESESCOUNT,Number of Businesses,2019,2019,EXPORT,Exporter,L,Real Estate Activities,Count,87.05868545
+BESESCOUNT,Number of Businesses,2019,2019,EXPORT,Exporter,M,"Professional, Scientific And Technical Activities",Count,1518.742972
+BESESCOUNT,Number of Businesses,2019,2019,EXPORT,Exporter,N,Administrative And Support Service Activities,Count,458.1522212
+BESESCOUNT,Number of Businesses,2019,2019,EXPORT,Exporter,P,Education,Count,171.6385595
+BESESCOUNT,Number of Businesses,2019,2019,EXPORT,Exporter,Q,Human Health And Social Work Activities,Count,156.773621
+BESESCOUNT,Number of Businesses,2019,2019,EXPORT,Exporter,R,"Arts, Entertainment And Recreation",Count,168.6242424
+BESESCOUNT,Number of Businesses,2019,2019,EXPORT,Exporter,S,Other Service Activities,Count,218.251015
+BESESCOUNT,Number of Businesses,2020,2020,EXTERN,External Seller,ALL,All industries,Count,14712.89009
+BESESCOUNT,Number of Businesses,2020,2020,EXTERN,External Seller,A,"Agriculture, Forestry And Fishing",Count,112.3027523
+BESESCOUNT,Number of Businesses,2020,2020,EXTERN,External Seller,B,Mining And Quarrying,Count,81.66666667
+BESESCOUNT,Number of Businesses,2020,2020,EXTERN,External Seller,C,Manufacturing,Count,2931.46458
+BESESCOUNT,Number of Businesses,2020,2020,EXTERN,External Seller,D,"Electricity, Gas, Steam And Air Conditioning Supply",Count,
+BESESCOUNT,Number of Businesses,2020,2020,EXTERN,External Seller,E,"Water Supply; Sewerage, Waste Management And Remediation Activities",Count,217.0972222
+BESESCOUNT,Number of Businesses,2020,2020,EXTERN,External Seller,F,Construction,Count,2178.13087
+BESESCOUNT,Number of Businesses,2020,2020,EXTERN,External Seller,G,Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles,Count,3139.863721
+BESESCOUNT,Number of Businesses,2020,2020,EXTERN,External Seller,H,Transportation And Storage,Count,868.6512112
+BESESCOUNT,Number of Businesses,2020,2020,EXTERN,External Seller,I,Accommodation And Food Service Activities,Count,147.4470415
+BESESCOUNT,Number of Businesses,2020,2020,EXTERN,External Seller,J,Information And Communication,Count,1465.217949
+BESESCOUNT,Number of Businesses,2020,2020,EXTERN,External Seller,L,Real Estate Activities,Count,354.7694236
+BESESCOUNT,Number of Businesses,2020,2020,EXTERN,External Seller,M,"Professional, Scientific And Technical Activities",Count,2053.866763
+BESESCOUNT,Number of Businesses,2020,2020,EXTERN,External Seller,N,Administrative And Support Service Activities,Count,623.0733882
+BESESCOUNT,Number of Businesses,2020,2020,EXTERN,External Seller,P,Education,Count,194.2397849
+BESESCOUNT,Number of Businesses,2020,2020,EXTERN,External Seller,Q,Human Health And Social Work Activities,Count,99.75497299
+BESESCOUNT,Number of Businesses,2020,2020,EXTERN,External Seller,R,"Arts, Entertainment And Recreation",Count,101.7452381
+BESESCOUNT,Number of Businesses,2020,2020,EXTERN,External Seller,S,Other Service Activities,Count,141.598506
+BESESCOUNT,Number of Businesses,2020,2020,EXPORT,Exporter,ALL,All industries,Count,11119.93055
+BESESCOUNT,Number of Businesses,2020,2020,EXPORT,Exporter,A,"Agriculture, Forestry And Fishing",Count,77.7706422
+BESESCOUNT,Number of Businesses,2020,2020,EXPORT,Exporter,B,Mining And Quarrying,Count,81.66666667
+BESESCOUNT,Number of Businesses,2020,2020,EXPORT,Exporter,C,Manufacturing,Count,2658.646339
+BESESCOUNT,Number of Businesses,2020,2020,EXPORT,Exporter,D,"Electricity, Gas, Steam And Air Conditioning Supply",Count,
+BESESCOUNT,Number of Businesses,2020,2020,EXPORT,Exporter,E,"Water Supply; Sewerage, Waste Management And Remediation Activities",Count,121.2361111
+BESESCOUNT,Number of Businesses,2020,2020,EXPORT,Exporter,F,Construction,Count,1639.609396
+BESESCOUNT,Number of Businesses,2020,2020,EXPORT,Exporter,G,Wholesale And Retail Trade; Repair Of Motor Vehicles And Motorcycles,Count,2616.691548
+BESESCOUNT,Number of Businesses,2020,2020,EXPORT,Exporter,H,Transportation And Storage,Count,615.895824
+BESESCOUNT,Number of Businesses,2020,2020,EXPORT,Exporter,I,Accommodation And Food Service Activities,Count,109.8868911
+BESESCOUNT,Number of Businesses,2020,2020,EXPORT,Exporter,J,Information And Communication,Count,1160.198718
+BESESCOUNT,Number of Businesses,2020,2020,EXPORT,Exporter,L,Real Estate Activities,Count,50.61152882
+BESESCOUNT,Number of Businesses,2020,2020,EXPORT,Exporter,M,"Professional, Scientific And Technical Activities",Count,1378.882582
+BESESCOUNT,Number of Businesses,2020,2020,EXPORT,Exporter,N,Administrative And Support Service Activities,Count,332.183762
+BESESCOUNT,Number of Businesses,2020,2020,EXPORT,Exporter,P,Education,Count,103.3365591
+BESESCOUNT,Number of Businesses,2020,2020,EXPORT,Exporter,Q,Human Health And Social Work Activities,Count,61.00130068
+BESESCOUNT,Number of Businesses,2020,2020,EXPORT,Exporter,R,"Arts, Entertainment And Recreation",Count,25
+BESESCOUNT,Number of Businesses,2020,2020,EXPORT,Exporter,S,Other Service Activities,Count,86.31267918

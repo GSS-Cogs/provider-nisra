@@ -1,0 +1,40 @@
+{
+    "$schema": "https://purl.org/csv-cubed/qube-config/v1",
+    "title": "Broad Economy Sales and Exports Statistics: Number of External Sellers and Exporters",
+    "summary": "",
+    "description": "",
+    "license": "https://www.nisra.gov.uk/crown-copyright",
+    "publisher": "https://www.gov.uk/government/organisations/northern-ireland-statistics-and-research-agency",
+    "themes":"",
+    "columns": {
+        "STATISTIC CODE": false,
+        "Statistic": {
+            "type" : "measures"
+        },
+        "TLIST(A1)": false,
+        "Year": {
+            "from_template": "year"
+        },
+        "COUNT_PARTNER" :false,
+        "Trade Partner": {
+            "type": "dimension"
+        },
+        "RESECTION" :false,
+        "Industry Sector": {
+            "type": "dimension"
+        },
+        "Marker": {
+            "type" : "attribute",
+            "from_template": "observation-status"
+        },
+        "Local Government District": false,
+        "VALUE": {
+            "type": "observations",
+            "data_type": "decimal",
+            "unit": {
+                "label": "Number",
+                "from_existing": "https://qudt.org/vocab/unit/NUM"
+            }
+        }
+    }
+}
