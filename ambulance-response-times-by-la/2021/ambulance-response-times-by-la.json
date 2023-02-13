@@ -5,22 +5,18 @@
     "description": "Abstract: Figures from 2020 onwards are not directly comparable with earlier years presented. From 2020 onwards figures relate to the median time taken by the appropriate response vehicle to respond to an incident. Calculations are based on the time taken to respond to each incident within a one month time period (August). This data refers to CAT1, CAT1(T) and CAT2 emergency responses, excluding Healthcare Professionals (HCP) calls.\nPrior to 2020, figures relate to the median i.e. midpoint value is reported rather than the simple average as it is unaffected by atypically long or short response times. \nThe median response time for response to incidents is calculated over the month of August as a sample of the calendar year. Measured in minutes and seconds. Data supplied by the Northern Ireland Ambulance Service (NIAS). Data refers to Categories A, B & C emergency responses, excluding Healthcare Professional (HCP) calls. The median (i.e. the midpoint) is reported rather than the simple average as it is unaffected by atypically long or short response times (outliers).\nFurther analysis of this data for most and least deprived areas and also rural comparisons are available from the Department of Health, health inequalities statistics. Sub-regional inequality analysis are also available which includes analysis of inequality gaps within HSC Trust and LGD areas. Please see the following web address: https://www.health-ni.gov.uk/topics/dhssps-statistics-and-research/health-inequalities-statistics Making Life Better: Theme 4 - Creating the Conditions",
     "license": "https://www.nisra.gov.uk/crown-copyright",
     "publisher": "https://www.gov.uk/government/organisations/northern-ireland-statistics-and-research-agency",
-    "themes":"https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthcaresystem",
+    "themes": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthcaresystem",
     "columns": {
         "STATISTIC CODE": false,
         "Statistic": {
-            "type" : "measures"
+            "type": "measures"
         },
         "TLIST(A1)": false,
         "Year": {
             "from_template": "year"
         },
         "LGD2014": {
-            "type": "dimension",
-            "label": "Geography",
-            "code_list": false,
-            "cell_uri_template": "http://statistics.data.gov.uk/id/statistical-geography/{+lgd2014}",
-            "from_existing": "http://purl.org/linked-data/sdmx/2009/dimension#refArea"
+            "from_template": "statistical-geography"
         },
         "Local Government District": false,
         "VALUE": {

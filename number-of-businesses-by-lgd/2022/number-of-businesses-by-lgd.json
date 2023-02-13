@@ -5,24 +5,20 @@
     "description": "Note: Production includes Manufacturing and Mining",
     "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
     "publisher": "https://www.gov.uk/government/organisations/northern-ireland-statistics-and-research-agency",
-    "themes":"https://www.ons.gov.uk/businessindustryandtrade/business/activitysizeandlocation",
+    "themes": "https://www.ons.gov.uk/businessindustryandtrade/business/activitysizeandlocation",
     "columns": {
         "STATISTIC CODE": false,
         "Statistic": {
-            "type" : "measures"
+            "type": "measures"
         },
         "TLIST(A1)": false,
         "Year": {
             "from_template": "year"
         },
         "LGD2014": {
-            "type": "dimension",
-            "label": "Geography",
-            "code_list": false,
-            "cell_uri_template": "http://statistics.data.gov.uk/id/statistical-geography/{+lgd2014}",
-            "from_existing": "http://purl.org/linked-data/sdmx/2009/dimension#refArea"
+            "from_template": "statistical-geography"
         },
-        "UNIT":false,
+        "UNIT": false,
         "Local Government District 2014": false,
         "VALUE": {
             "type": "observations",
