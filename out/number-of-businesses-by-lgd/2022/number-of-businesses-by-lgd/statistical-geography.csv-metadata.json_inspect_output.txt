@@ -1,0 +1,67 @@
+
+- This file is a code list.
+
+- The code list has the following catalog metadata:
+        - Title: Statistical Geography
+        - Label: Statistical Geography
+        - Issued: 2023-02-13T12:18:07.665455
+        - Modified: 2023-02-13T12:18:07.665455
+        - License: None
+        - Creator: None
+        - Publisher: None
+        - Landing Pages: None
+        - Themes: None
+        - Keywords: None
+        - Contact Point: None
+        - Identifier: Statistical Geography
+        - Comment: None
+        - Description: None
+        
+
+- The code list has the following dataset information:
+        - Number of Concepts: 12
+        - Number of Duplicates: 0
+        - First 10 Concepts: 
+Uri Identifier     Label  Notation  Parent Uri Identifier  Sort Priority  Description
+     n09000001 N09000001 n09000001                    NaN              0          NaN
+     n09000002 N09000002 n09000002                    NaN              1          NaN
+     n09000003 N09000003 n09000003                    NaN              2          NaN
+     n09000004 N09000004 n09000004                    NaN              3          NaN
+     n09000005 N09000005 n09000005                    NaN              4          NaN
+     n09000006 N09000006 n09000006                    NaN              5          NaN
+     n09000007 N09000007 n09000007                    NaN              6          NaN
+     n09000008 N09000008 n09000008                    NaN              7          NaN
+     n09000009 N09000009 n09000009                    NaN              8          NaN
+     n09000010 N09000010 n09000010                    NaN              9          NaN
+        - Last 10 Concepts: 
+Uri Identifier     Label  Notation  Parent Uri Identifier  Sort Priority  Description
+     n09000003 N09000003 n09000003                    NaN              2          NaN
+     n09000004 N09000004 n09000004                    NaN              3          NaN
+     n09000005 N09000005 n09000005                    NaN              4          NaN
+     n09000006 N09000006 n09000006                    NaN              5          NaN
+     n09000007 N09000007 n09000007                    NaN              6          NaN
+     n09000008 N09000008 n09000008                    NaN              7          NaN
+     n09000009 N09000009 n09000009                    NaN              8          NaN
+     n09000010 N09000010 n09000010                    NaN              9          NaN
+     n09000011 N09000011 n09000011                    NaN             10          NaN
+     n92000002 N92000002 n92000002                    NaN             11          NaN
+        
+
+- The code list has the following concepts information:
+        - Concepts hierarchy depth: 1
+        - Concepts hierarchy:
+root
+├── N09000001
+├── N09000002
+├── N09000003
+├── N09000004
+├── N09000005
+├── N09000006
+├── N09000007
+├── N09000008
+├── N09000009
+├── N09000010
+├── N09000011
+└── N92000002
+
+        
