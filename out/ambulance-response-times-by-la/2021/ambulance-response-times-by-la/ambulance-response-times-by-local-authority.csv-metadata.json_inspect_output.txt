@@ -4,8 +4,8 @@
 - The data cube has the following catalog metadata:
         - Title: Ambulance Response Times by Local Authority
         - Label: Ambulance Response Times by Local Authority
-        - Issued: 2022-10-07T14:25:45.415398
-        - Modified: 2022-10-07T14:25:45.415398
+        - Issued: 2023-02-13T12:17:59.277109
+        - Modified: 2023-02-13T12:17:59.277109
         - License: https://www.nisra.gov.uk/crown-copyright
         - Creator: None
         - Publisher: https://www.gov.uk/government/organisations/northern-ireland-statistics-and-research-agency
@@ -26,51 +26,52 @@
         - Dataset Label: Ambulance Response Times by Local Authority
         - Number of Components: 5
         - Components:
-                                                                              Property                  Property Label Property Type Column Title  Required
-ambulance-response-times-by-local-authority.csv#measure/ambulance-response-time-median Ambulance response time, median       Measure                   True
-                        ambulance-response-times-by-local-authority.csv#dimension/year                            Year     Dimension         Year      True
-                   ambulance-response-times-by-local-authority.csv#dimension/geography                       Geography     Dimension      LGD2014      True
-                                          http://purl.org/linked-data/cube#measureType                                     Dimension    Statistic      True
-                           http://purl.org/linked-data/sdmx/2009/attribute#unitMeasure                                     Attribute                   True
+                                                                              Property                  Property Label Property Type Column Title Observation Value Column Titles  Required
+ambulance-response-times-by-local-authority.csv#measure/ambulance-response-time-median Ambulance response time, median       Measure                                                   True
+                        ambulance-response-times-by-local-authority.csv#dimension/year                            Year     Dimension         Year                                      True
+       ambulance-response-times-by-local-authority.csv#dimension/statistical-geography           Statistical Geography     Dimension      LGD2014                                      True
+                                          http://purl.org/linked-data/cube#measureType                                     Dimension    Statistic                                      True
+                           http://purl.org/linked-data/sdmx/2009/attribute#unitMeasure                                     Attribute                                                   True
         - Columns where suppress output is true: 
-		-- Local Government District
 		-- TLIST(A1)
+		-- Local Government District
 		-- STATISTIC CODE
 		-- Uri Identifier
 
 - The data cube has the following code list information:
-        - Number of Code Lists: 1
+        - Number of Code Lists: 2
         - Code Lists:
-         Code List Code List Label Columns Used In
-year.csv#code-list            Year            Year
+                          Code List       Code List Label Columns Used In
+statistical-geography.csv#code-list Statistical Geography         LGD2014
+                 year.csv#code-list                  Year            Year
 
 - The data cube has the following dataset information:
         - Number of Observations: 144
         - Number of Duplicates: 0
         - First 10 Observations: 
 STATISTIC CODE                      Statistic  TLIST(A1)  Year   LGD2014            Local Government District  VALUE
-           ART ambulance-response-time-median       2010  2010 N09000001              Antrim and Newtownabbey    442
-           ART ambulance-response-time-median       2010  2010 N09000002 Armagh City, Banbridge and Craigavon    429
-           ART ambulance-response-time-median       2010  2010 N09000003                              Belfast    340
-           ART ambulance-response-time-median       2010  2010 N09000004             Causeway Coast and Glens    529
-           ART ambulance-response-time-median       2010  2010 N09000005              Derry City and Strabane    379
-           ART ambulance-response-time-median       2010  2010 N09000006                  Fermanagh and Omagh    371
-           ART ambulance-response-time-median       2010  2010 N09000007              Lisburn and Castlereagh    362
-           ART ambulance-response-time-median       2010  2010 N09000008                  Mid and East Antrim    415
-           ART ambulance-response-time-median       2010  2010 N09000009                           Mid Ulster    498
-           ART ambulance-response-time-median       2010  2010 N09000010               Newry, Mourne and Down    431
+           ART ambulance-response-time-median       2010  2010 n09000001              Antrim and Newtownabbey    442
+           ART ambulance-response-time-median       2010  2010 n09000002 Armagh City, Banbridge and Craigavon    429
+           ART ambulance-response-time-median       2010  2010 n09000003                              Belfast    340
+           ART ambulance-response-time-median       2010  2010 n09000004             Causeway Coast and Glens    529
+           ART ambulance-response-time-median       2010  2010 n09000005              Derry City and Strabane    379
+           ART ambulance-response-time-median       2010  2010 n09000006                  Fermanagh and Omagh    371
+           ART ambulance-response-time-median       2010  2010 n09000007              Lisburn and Castlereagh    362
+           ART ambulance-response-time-median       2010  2010 n09000008                  Mid and East Antrim    415
+           ART ambulance-response-time-median       2010  2010 n09000009                           Mid Ulster    498
+           ART ambulance-response-time-median       2010  2010 n09000010               Newry, Mourne and Down    431
         - Last 10 Observations: 
 STATISTIC CODE                      Statistic  TLIST(A1)  Year   LGD2014 Local Government District  VALUE
-           ART ambulance-response-time-median       2021  2021 N09000003                   Belfast   1338
-           ART ambulance-response-time-median       2021  2021 N09000004  Causeway Coast and Glens   1393
-           ART ambulance-response-time-median       2021  2021 N09000005   Derry City and Strabane    825
-           ART ambulance-response-time-median       2021  2021 N09000006       Fermanagh and Omagh   1165
-           ART ambulance-response-time-median       2021  2021 N09000007   Lisburn and Castlereagh   1872
-           ART ambulance-response-time-median       2021  2021 N09000008       Mid and East Antrim   1727
-           ART ambulance-response-time-median       2021  2021 N09000009                Mid Ulster   1624
-           ART ambulance-response-time-median       2021  2021 N09000010    Newry, Mourne and Down   2244
-           ART ambulance-response-time-median       2021  2021 N09000011       Ards and North Down   1790
-           ART ambulance-response-time-median       2021  2021 N92000002                        NI   1477
+           ART ambulance-response-time-median       2021  2021 n09000003                   Belfast   1338
+           ART ambulance-response-time-median       2021  2021 n09000004  Causeway Coast and Glens   1393
+           ART ambulance-response-time-median       2021  2021 n09000005   Derry City and Strabane    825
+           ART ambulance-response-time-median       2021  2021 n09000006       Fermanagh and Omagh   1165
+           ART ambulance-response-time-median       2021  2021 n09000007   Lisburn and Castlereagh   1872
+           ART ambulance-response-time-median       2021  2021 n09000008       Mid and East Antrim   1727
+           ART ambulance-response-time-median       2021  2021 n09000009                Mid Ulster   1624
+           ART ambulance-response-time-median       2021  2021 n09000010    Newry, Mourne and Down   2244
+           ART ambulance-response-time-median       2021  2021 n09000011       Ards and North Down   1790
+           ART ambulance-response-time-median       2021  2021 n92000002                        NI   1477
         
 
 - The data cube has the following value counts:
